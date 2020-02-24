@@ -1,0 +1,2088 @@
+/* original black style #909090-hover #222222-active */
+.black .tagMultiSelect_selector:hover,
+.black .tagMultiSelect_selector:hover:before,
+.black .helpfillSelector:hover,
+.black .helpfillSelector:hover:before,
+.black .select select:hover,
+.black .radio_box_wrapper:hover .radio_box_activator,
+.black .SimpleSliderThumb:hover .thumbView:after,
+.black .SimpleSliderThumb:hover .thumbView::after,
+.black .SimpleSliderThumb:hover .thumbView,
+.black .SimpleSliderThumb.selected .thumbView,
+.black .SimpleSliderThumb.selected .thumbView:after,
+.black .simpleSlider:hover .SimpleSliderTrack:before,
+.black .simpleSlider:active .SimpleSliderTrack:before,
+.black .simpleChecker:hover .simpleChecker_filler,
+.black .MultiBox:hover .MultiBoxSelector,
+.black .MultiBox:hover,
+.black .MultiBox:hover .MultiBoxInfo,
+.black .MultiBox:hover .MultiBoxHeader,
+.black .radio_box_activator:hover,
+.black .tagMultiSelect_addTag:hover,
+.black .select_box.hover,
+.black .textarea:not(.focus):not(.disabled) .AutoGrowTextarea.hover,
+.black .textarea:not(.focus):not(.disabled) .AutoGrowTextarea.hover .textarea_counter,
+.black .textarea:not(.focus):not(.disabled):hover .AutoGrowTextarea,
+.black .ImageFieldWrapper:hover,
+.black .ticker.hover,
+.black .simplePassword:hover input,
+.black .simplePasswordButton:hover,
+.black .input:hover input,
+.black .textarea:hover textarea:not(:focus):not(:disabled),
+.black .radio:hover i,
+.black .checkbox:hover i,
+.black .checkbox-toggle:hover input:not(:checked) + i,
+.black .radio-toggle:hover input:not(:checked) + i,
+.black input[type=password]:not(:disabled):hover,
+.black input[type=text]:not(:disabled):hover,
+.black input[type=email]:not(:disabled):hover,
+.black input[type=url]:not(:disabled):hover,
+.black input[type=search]:not(:disabled):hover,
+.black textarea:not(:focus):not(:disabled):hover,
+.black .steps,
+.black .datetime_datetimepicker.datetime_flat:hover,
+.black .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker,
+.black .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_prev,
+.black .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_next,
+.black .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_today_button,
+.black .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_label.datetime_month,
+.black .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_label.datetime_year,
+.black .datetime_datetimepicker.datetime_flat .datetime_timepickerWrapper:hover,
+.black .trumbowyg-box:hover,
+.black .trumbowyg-box:hover .trumbowyg-button-pane {
+	border-bottom-color: #909090;
+	border-left-color: #909090;
+	border-right-color: #909090;
+	border-top-color: #909090;
+}
+.black .simpleChecker_fillerRight {
+	color: #909090;
+}
+.black .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover i,
+.black .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-append, 
+.black .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-prepend,
+.black .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover i,
+.black .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-append, 
+.black .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-prepend {
+	border-color: #909090;
+	color: #909090;
+}
+.black .input.focus:not(.disabled) .icon-append,
+.black .input.focus:not(.disabled) .icon-prepend,
+.black .textarea.focus:not(.disabled) .icon-append,
+.black .textarea.focus:not(.disabled) .icon-prepend,
+.black .input.focus:not(.disabled) .icon-append i,
+.black .input.focus:not(.disabled) .icon-prepend i,
+.black .textarea.focus:not(.disabled) .icon-append i,
+.black .textarea.focus:not(.disabled) .icon-prepend i,
+.black .checkbox-toggle input:not(:disabled):checked + i,
+.black .radio-toggle input:not(:disabled):checked + i,
+.black .radio input:not(:disabled):checked + i,
+.black .checkbox input:not(:disabled):checked + i,
+.black .radio input:not(:disabled):checked + i:after,
+.black .checkbox input:not(:disabled):checked + i:after,
+.black .checkbox input:not(:disabled) + i:after,
+.black .radio-toggle input:not(:disabled):not(:checked) + i:after,
+.black .checkbox-toggle input:not(:disabled):not(:checked) + i:after,
+.black .ratings input + label:hover,
+.black .ratings input + label:hover ~ label,
+.black .ratings input:checked + label,
+.black .ratings input:checked + label ~ label,
+.black .textarea.focus:not(.disabled) .trumbowyg-box,
+.black .textarea.focus:not(.disabled) .trumbowyg-box .trumbowyg-button-pane {
+	border-color: #222222 !important;
+	color: #222222 !important;
+}
+.black .ImageFieldButton,
+.black .button.secondary,
+.black .simpleChecker:not(.small) .simpleChecker_handler,
+.black .simpleChecker:not(.small) .simpleChecker_handler_underlay .simpleChecker_fillerRight span:not(.custom):before,
+.black .simpleChecker:not(.small) .simpleChecker_handler_underlay .simpleChecker_fillerRight span:not(.custom):after,
+.black .checkbox-toggle i:before,
+.black .radio-toggle i:before,
+.black .steps,
+.black .trumbowyg-box:hover .trumbowyg-separator {
+	background-color: #909090;
+}
+.black .ImageFieldButton:hover, 
+.black .button.primary,
+.black .ImageFieldPBFiller,
+.black .SimpleSliderTrackFiller.original,
+.black .simpleChecker:not(.small):not(.disabled):not(.checked):hover .simpleChecker_handler, 
+.black .checked .simpleChecker_handler_underlay, 
+.black .progressFiller,
+.black .checkbox-toggle:hover input:not(:disabled):not(:checked) + i:before,
+.black .radio-toggle:hover  input:not(:disabled):not(:checked) + i:before,
+.black .checkbox-toggle input:not(:disabled):checked + i,
+.black .radio-toggle input:not(:disabled):checked + i,
+.black .radio input:not(:disabled) + i:after {
+	background-color: #222222;
+}
+.black .radio_box_filler,
+.black .SimpleSliderThumb.active .thumbView:after,
+.black .SimpleSliderThumb.active .thumbView::after,
+.black .SimpleSliderThumb.active .thumbView,
+.black .SimpleSliderThumb:focus .thumbView:after,
+.black .SimpleSliderThumb:focus .thumbView::after,
+.black .SimpleSliderThumb:focus .thumbView,
+.black .simpleChecker.checked .simpleChecker_filler,
+.black .simpleChecker.checked .simpleChecker_handler,
+.black .tagMultiSelect_addTag.active,
+.black .tag,
+.black .tagMultiSelect_tag,
+.black .select_box_selector:not(.top),
+.black .select_box_selector.top,
+.black .MultiBox.focus,
+.black .MultiBox.focus .MultiBoxSelector,
+.black .MultiBox.focus .MultiBoxInfo,
+.black .MultiBox.focus .MultiBoxHeader,
+.black .select_box.focus,
+.black .AutoGrowTextarea.focus,
+.black .AutoGrowTextarea.focus .textarea_counter,
+.black .ticker.focus,
+.black .tag:before,
+.black .tagMultiSelect_tag:before,
+.black .tag::before,
+.black .tagMultiSelect_tag::before,
+.black .radio_box_activator.active,
+.black .simplePassword.focus input,
+.black input[type=password]:not(:disabled):focus,
+.black input[type=text]:not(:disabled):focus,
+.black input[type=email]:not(:disabled):focus,
+.black input[type=url]:not(:disabled):focus,
+.black input[type=search]:not(:disabled):focus,
+.black textarea:not(:disabled):focus,
+.black .select select:focus,
+.black .simpleChecker.small .simpleChecker_handler:before,
+.black .active-step .steps {
+	color: #3c3c3c;
+	background: #fff ;
+	border-color: #222222;
+	border-bottom-color: #222222;
+	border-left-color: #222222;
+	border-right-color: #222222;
+	border-top-color: #222222;
+	outline: none
+}
+.black .radio_box_activator.active,
+.black .datetime_datetimepicker.datetime_flat .datetime_mounthpicker .datetime_select,
+.black .datetime_datetimepicker.datetime_flat .datetime_timepicker,
+.black .trumbowyg-box:hover .trumbowyg-modal-box,
+.black .trumbowyg-box:hover .trumbowyg-dropdown  {
+	border-color: #222222 !important;
+}
+/* black style ends */
+/* brown style #9d8c87-hover #5d4037-active */
+.brown .tagMultiSelect_selector:hover,
+.brown .tagMultiSelect_selector:hover:before,
+.brown .helpfillSelector:hover,
+.brown .helpfillSelector:hover:before,
+.brown .select select:hover,
+.brown .radio_box_wrapper:hover .radio_box_activator,
+.brown .SimpleSliderThumb:hover .thumbView:after,
+.brown .SimpleSliderThumb:hover .thumbView::after,
+.brown .SimpleSliderThumb:hover .thumbView,
+.brown .SimpleSliderThumb.selected .thumbView,
+.brown .SimpleSliderThumb.selected .thumbView:after,
+.brown .simpleSlider:hover .SimpleSliderTrack:before,
+.brown .simpleSlider:active .SimpleSliderTrack:before,
+.brown .simpleChecker:hover .simpleChecker_filler,
+.brown .MultiBox:hover .MultiBoxSelector,
+.brown .MultiBox:hover,
+.brown .MultiBox:hover .MultiBoxInfo,
+.brown .MultiBox:hover .MultiBoxHeader,
+.brown .radio_box_activator:hover,
+.brown .tagMultiSelect_addTag:hover,
+.brown .select_box.hover,
+.brown .textarea:not(.focus):not(.disabled) .AutoGrowTextarea.hover,
+.brown .textarea:not(.focus):not(.disabled) .AutoGrowTextarea.hover .textarea_counter,
+.brown .textarea:not(.focus):not(.disabled):hover .AutoGrowTextarea,
+.brown .ImageFieldWrapper:hover,
+.brown .ticker.hover,
+.brown .simplePassword:hover input,
+.brown .simplePasswordButton:hover,
+.brown .input:hover input,
+.brown .textarea:hover textarea:not(:focus):not(:disabled),
+.brown .radio:hover i,
+.brown .checkbox:hover i,
+.brown .checkbox-toggle:hover input:not(:checked) + i,
+.brown .radio-toggle:hover input:not(:checked) + i,
+.brown input[type=password]:not(:disabled):hover,
+.brown input[type=text]:not(:disabled):hover,
+.brown input[type=email]:not(:disabled):hover,
+.brown input[type=url]:not(:disabled):hover,
+.brown input[type=search]:not(:disabled):hover,
+.brown textarea:not(:focus):not(:disabled):hover,
+.brown .steps,
+.brown .datetime_datetimepicker.datetime_flat:hover,
+.brown .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker,
+.brown .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_prev,
+.brown .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_next,
+.brown .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_today_button,
+.brown .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_label.datetime_month,
+.brown .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_label.datetime_year,
+.brown .datetime_datetimepicker.datetime_flat .datetime_timepickerWrapper:hover,
+.brown .trumbowyg-box:hover,
+.brown .trumbowyg-box:hover .trumbowyg-button-pane {
+	border-bottom-color: #9d8c87 ;
+	border-left-color: #9d8c87 ;
+	border-right-color: #9d8c87 ;
+	border-top-color: #9d8c87 ;
+}
+.brown .simpleChecker_fillerRight {
+	color: #9d8c87 ;
+}
+.brown .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover i,
+.brown .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-append, 
+.brown .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-prepend,
+.brown .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover i,
+.brown .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-append, 
+.brown .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-prepend {
+	border-color: #9d8c87 ;
+	color: #9d8c87 ;
+}
+.brown .input.focus:not(.disabled) .icon-append,
+.brown .input.focus:not(.disabled) .icon-prepend,
+.brown .textarea.focus:not(.disabled) .icon-append,
+.brown .textarea.focus:not(.disabled) .icon-prepend,
+.brown .input.focus:not(.disabled) .icon-append i,
+.brown .input.focus:not(.disabled) .icon-prepend i,
+.brown .textarea.focus:not(.disabled) .icon-append i,
+.brown .textarea.focus:not(.disabled) .icon-prepend i,
+.brown .checkbox-toggle input:not(:disabled):checked + i,
+.brown .radio-toggle input:not(:disabled):checked + i,
+.brown .radio input:not(:disabled):checked + i,
+.brown .checkbox input:not(:disabled):checked + i,
+.brown .radio input:not(:disabled):checked + i:after,
+.brown .checkbox input:not(:disabled):checked + i:after,
+.brown .checkbox input:not(:disabled) + i:after,
+.brown .radio-toggle input:not(:disabled):not(:checked) + i:after,
+.brown .checkbox-toggle input:not(:disabled):not(:checked) + i:after,
+.brown .ratings input + label:hover,
+.brown .ratings input + label:hover ~ label,
+.brown .ratings input:checked + label,
+.brown .ratings input:checked + label ~ label,
+.brown .textarea.focus:not(.disabled) .trumbowyg-box,
+.brown .textarea.focus:not(.disabled) .trumbowyg-box .trumbowyg-button-pane {
+	border-color: #5d4037  !important;
+	color: #5d4037  !important;
+}
+.brown .ImageFieldButton,
+.brown .button.secondary,
+.brown .simpleChecker:not(.small) .simpleChecker_handler,
+.brown .simpleChecker:not(.small) .simpleChecker_handler_underlay .simpleChecker_fillerRight span:not(.custom):before,
+.brown .simpleChecker:not(.small) .simpleChecker_handler_underlay .simpleChecker_fillerRight span:not(.custom):after,
+.brown .checkbox-toggle i:before,
+.brown .radio-toggle i:before,
+.brown .steps,
+.brown .trumbowyg-box:hover .trumbowyg-separator {
+	background-color: #9d8c87 ;
+}
+.brown .ImageFieldButton:hover, 
+.brown .button.primary,
+.brown .ImageFieldPBFiller,
+.brown .SimpleSliderTrackFiller.original,
+.brown .simpleChecker:not(.small):not(.disabled):not(.checked):hover .simpleChecker_handler, 
+.brown .checked .simpleChecker_handler_underlay, 
+.brown .progressFiller,
+.brown .checkbox-toggle:hover input:not(:disabled):not(:checked) + i:before,
+.brown .radio-toggle:hover  input:not(:disabled):not(:checked) + i:before,
+.brown .checkbox-toggle input:not(:disabled):checked + i,
+.brown .radio-toggle input:not(:disabled):checked + i,
+.brown .radio input:not(:disabled) + i:after {
+	background-color: #5d4037 ;
+}
+.brown .radio_box_filler,
+.brown .SimpleSliderThumb.active .thumbView:after,
+.brown .SimpleSliderThumb.active .thumbView::after,
+.brown .SimpleSliderThumb.active .thumbView,
+.brown .SimpleSliderThumb:focus .thumbView:after,
+.brown .SimpleSliderThumb:focus .thumbView::after,
+.brown .SimpleSliderThumb:focus .thumbView,
+.brown .simpleChecker.checked .simpleChecker_filler,
+.brown .simpleChecker.checked .simpleChecker_handler,
+.brown .tagMultiSelect_addTag.active,
+.brown .tag,
+.brown .tagMultiSelect_tag,
+.brown .select_box_selector:not(.top),
+.brown .select_box_selector.top,
+.brown .MultiBox.focus,
+.brown .MultiBox.focus .MultiBoxSelector,
+.brown .MultiBox.focus .MultiBoxInfo,
+.brown .MultiBox.focus .MultiBoxHeader,
+.brown .select_box.focus,
+.brown .AutoGrowTextarea.focus,
+.brown .AutoGrowTextarea.focus .textarea_counter,
+.brown .ticker.focus,
+.brown .tag:before,
+.brown .tagMultiSelect_tag:before,
+.brown .tag::before,
+.brown .tagMultiSelect_tag::before,
+.brown .radio_box_activator.active,
+.brown .simplePassword.focus input,
+.brown input[type=password]:not(:disabled):focus,
+.brown input[type=text]:not(:disabled):focus,
+.brown input[type=email]:not(:disabled):focus,
+.brown input[type=url]:not(:disabled):focus,
+.brown input[type=search]:not(:disabled):focus,
+.brown textarea:not(:disabled):focus,
+.brown .select select:focus,
+.brown .simpleChecker.small .simpleChecker_handler:before,
+.brown .active-step .steps {
+	color: #3c3c3c;
+	background: #fff ;
+	border-color: #5d4037 ;
+	border-bottom-color: #5d4037 ;
+	border-left-color: #5d4037 ;
+	border-right-color: #5d4037 ;
+	border-top-color: #5d4037 ;
+	outline: none
+}
+.brown .radio_box_activator.active,
+.brown .datetime_datetimepicker.datetime_flat .datetime_mounthpicker .datetime_select,
+.brown .datetime_datetimepicker.datetime_flat .datetime_timepicker,
+.brown .trumbowyg-box:hover .trumbowyg-modal-box,
+.brown .trumbowyg-box:hover .trumbowyg-dropdown  {
+	border-color: #5d4037  !important;
+}
+/* brown style ends */
+/* blue style #94b7f3-hover #2a70e8-active */
+.blue .tagMultiSelect_selector:hover,
+.blue .tagMultiSelect_selector:hover:before,
+.blue .helpfillSelector:hover,
+.blue .helpfillSelector:hover:before,
+.blue .select select:hover,
+.blue .radio_box_wrapper:hover .radio_box_activator,
+.blue .SimpleSliderThumb:hover .thumbView:after,
+.blue .SimpleSliderThumb:hover .thumbView::after,
+.blue .SimpleSliderThumb:hover .thumbView,
+.blue .SimpleSliderThumb.selected .thumbView,
+.blue .SimpleSliderThumb.selected .thumbView:after,
+.blue .simpleSlider:hover .SimpleSliderTrack:before,
+.blue .simpleSlider:active .SimpleSliderTrack:before,
+.blue .simpleChecker:hover .simpleChecker_filler,
+.blue .MultiBox:hover .MultiBoxSelector,
+.blue .MultiBox:hover,
+.blue .MultiBox:hover .MultiBoxInfo,
+.blue .MultiBox:hover .MultiBoxHeader,
+.blue .radio_box_activator:hover,
+.blue .tagMultiSelect_addTag:hover,
+.blue .select_box.hover,
+.blue .textarea:not(.focus):not(.disabled) .AutoGrowTextarea.hover,
+.blue .textarea:not(.focus):not(.disabled) .AutoGrowTextarea.hover .textarea_counter,
+.blue .textarea:not(.focus):not(.disabled):hover .AutoGrowTextarea,
+.blue .ImageFieldWrapper:hover,
+.blue .ticker.hover,
+.blue .simplePassword:hover input,
+.blue .simplePasswordButton:hover,
+.blue .input:hover input,
+.blue .textarea:hover textarea:not(:focus):not(:disabled),
+.blue .radio:hover i,
+.blue .checkbox:hover i,
+.blue .checkbox-toggle:hover input:not(:checked) + i,
+.blue .radio-toggle:hover input:not(:checked) + i,
+.blue input[type=password]:not(:disabled):hover,
+.blue input[type=text]:not(:disabled):hover,
+.blue input[type=email]:not(:disabled):hover,
+.blue input[type=url]:not(:disabled):hover,
+.blue input[type=search]:not(:disabled):hover,
+.blue textarea:not(:focus):not(:disabled):hover,
+.blue .steps,
+.blue .datetime_datetimepicker.datetime_flat:hover,
+.blue .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker,
+.blue .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_prev,
+.blue .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_next,
+.blue .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_today_button,
+.blue .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_label.datetime_month,
+.blue .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_label.datetime_year,
+.blue .datetime_datetimepicker.datetime_flat .datetime_timepickerWrapper:hover,
+.blue .trumbowyg-box:hover,
+.blue .trumbowyg-box:hover .trumbowyg-button-pane {
+	border-bottom-color: #94b7f3;
+	border-left-color: #94b7f3;
+	border-right-color: #94b7f3;
+	border-top-color: #94b7f3;
+}
+.blue .simpleChecker_fillerRight {
+	color: #94b7f3;
+}
+.blue .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover i,
+.blue .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-append, 
+.blue .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-prepend,
+.blue .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover i,
+.blue .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-append, 
+.blue .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-prepend {
+	border-color: #94b7f3;
+	color: #94b7f3;
+}
+.blue .input.focus:not(.disabled) .icon-append,
+.blue .input.focus:not(.disabled) .icon-prepend,
+.blue .textarea.focus:not(.disabled) .icon-append,
+.blue .textarea.focus:not(.disabled) .icon-prepend,
+.blue .input.focus:not(.disabled) .icon-append i,
+.blue .input.focus:not(.disabled) .icon-prepend i,
+.blue .textarea.focus:not(.disabled) .icon-append i,
+.blue .textarea.focus:not(.disabled) .icon-prepend i,
+.blue .checkbox-toggle input:not(:disabled):checked + i,
+.blue .radio-toggle input:not(:disabled):checked + i,
+.blue .radio input:not(:disabled):checked + i,
+.blue .checkbox input:not(:disabled):checked + i,
+.blue .radio input:not(:disabled):checked + i:after,
+.blue .checkbox input:not(:disabled):checked + i:after,
+.blue .checkbox input:not(:disabled) + i:after,
+.blue .radio-toggle input:not(:disabled):not(:checked) + i:after,
+.blue .checkbox-toggle input:not(:disabled):not(:checked) + i:after,
+.blue .ratings input + label:hover,
+.blue .ratings input + label:hover ~ label,
+.blue .ratings input:checked + label,
+.blue .ratings input:checked + label ~ label,
+.blue .textarea.focus:not(.disabled) .trumbowyg-box,
+.blue .textarea.focus:not(.disabled) .trumbowyg-box .trumbowyg-button-pane {
+	border-color: #2a70e8 !important;
+	color: #2a70e8 !important;
+}
+.blue .ImageFieldButton,
+.blue .button.secondary,
+.blue .simpleChecker:not(.small) .simpleChecker_handler,
+.blue .simpleChecker:not(.small) .simpleChecker_handler_underlay .simpleChecker_fillerRight span:not(.custom):before,
+.blue .simpleChecker:not(.small) .simpleChecker_handler_underlay .simpleChecker_fillerRight span:not(.custom):after,
+.blue .checkbox-toggle i:before,
+.blue .radio-toggle i:before,
+.blue .steps,
+.blue .trumbowyg-box:hover .trumbowyg-separator {
+	background-color: #94b7f3;
+}
+.blue .ImageFieldButton:hover, 
+.blue .button.primary,
+.blue .ImageFieldPBFiller,
+.blue .SimpleSliderTrackFiller.original,
+.blue .simpleChecker:not(.small):not(.disabled):not(.checked):hover .simpleChecker_handler, 
+.blue .checked .simpleChecker_handler_underlay, 
+.blue .progressFiller,
+.blue .checkbox-toggle:hover input:not(:disabled):not(:checked) + i:before,
+.blue .radio-toggle:hover  input:not(:disabled):not(:checked) + i:before,
+.blue .checkbox-toggle input:not(:disabled):checked + i,
+.blue .radio-toggle input:not(:disabled):checked + i,
+.blue .radio input:not(:disabled) + i:after {
+	background-color: #2a70e8;
+}
+.blue .radio_box_filler,
+.blue .SimpleSliderThumb.active .thumbView:after,
+.blue .SimpleSliderThumb.active .thumbView::after,
+.blue .SimpleSliderThumb.active .thumbView,
+.blue .SimpleSliderThumb:focus .thumbView:after,
+.blue .SimpleSliderThumb:focus .thumbView::after,
+.blue .SimpleSliderThumb:focus .thumbView,
+.blue .simpleChecker.checked .simpleChecker_filler,
+.blue .simpleChecker.checked .simpleChecker_handler,
+.blue .tagMultiSelect_addTag.active,
+.blue .tag,
+.blue .tagMultiSelect_tag,
+.blue .select_box_selector:not(.top),
+.blue .select_box_selector.top,
+.blue .MultiBox.focus,
+.blue .MultiBox.focus .MultiBoxSelector,
+.blue .MultiBox.focus .MultiBoxInfo,
+.blue .MultiBox.focus .MultiBoxHeader,
+.blue .select_box.focus,
+.blue .AutoGrowTextarea.focus,
+.blue .AutoGrowTextarea.focus .textarea_counter,
+.blue .ticker.focus,
+.blue .tag:before,
+.blue .tagMultiSelect_tag:before,
+.blue .tag::before,
+.blue .tagMultiSelect_tag::before,
+.blue .radio_box_activator.active,
+.blue .simplePassword.focus input,
+.blue input[type=password]:not(:disabled):focus,
+.blue input[type=text]:not(:disabled):focus,
+.blue input[type=email]:not(:disabled):focus,
+.blue input[type=url]:not(:disabled):focus,
+.blue input[type=search]:not(:disabled):focus,
+.blue textarea:not(:disabled):focus,
+.blue .select select:focus,
+.blue .simpleChecker.small .simpleChecker_handler:before,
+.blue .active-step .steps {
+	color: #3c3c3c;
+	background: #fff ;
+	border-color: #2a70e8;
+	border-bottom-color: #2a70e8;
+	border-left-color: #2a70e8;
+	border-right-color: #2a70e8;
+	border-top-color: #2a70e8;
+	outline: none
+}
+.blue .radio_box_activator.active,
+.blue .datetime_datetimepicker.datetime_flat .datetime_mounthpicker .datetime_select,
+.blue .datetime_datetimepicker.datetime_flat .datetime_timepicker,
+.blue .trumbowyg-box:hover .trumbowyg-modal-box,
+.blue .trumbowyg-box:hover .trumbowyg-dropdown  {
+	border-color: #2a70e8 !important;
+}
+/* blue style ends */
+/* cyan style #8dc9e5-hover #2da5da-active */
+.cyan .tagMultiSelect_selector:hover,
+.cyan .tagMultiSelect_selector:hover:before,
+.cyan .helpfillSelector:hover,
+.cyan .helpfillSelector:hover:before,
+.cyan .select select:hover,
+.cyan .radio_box_wrapper:hover .radio_box_activator,
+.cyan .SimpleSliderThumb:hover .thumbView:after,
+.cyan .SimpleSliderThumb:hover .thumbView::after,
+.cyan .SimpleSliderThumb:hover .thumbView,
+.cyan .SimpleSliderThumb.selected .thumbView,
+.cyan .SimpleSliderThumb.selected .thumbView:after,
+.cyan .simpleSlider:hover .SimpleSliderTrack:before,
+.cyan .simpleSlider:active .SimpleSliderTrack:before,
+.cyan .simpleChecker:hover .simpleChecker_filler,
+.cyan .MultiBox:hover .MultiBoxSelector,
+.cyan .MultiBox:hover,
+.cyan .MultiBox:hover .MultiBoxInfo,
+.cyan .MultiBox:hover .MultiBoxHeader,
+.cyan .radio_box_activator:hover,
+.cyan .tagMultiSelect_addTag:hover,
+.cyan .select_box.hover,
+.cyan .textarea:not(.focus):not(.disabled) .AutoGrowTextarea.hover,
+.cyan .textarea:not(.focus):not(.disabled) .AutoGrowTextarea.hover .textarea_counter,
+.cyan .textarea:not(.focus):not(.disabled):hover .AutoGrowTextarea,
+.cyan .ImageFieldWrapper:hover,
+.cyan .ticker.hover,
+.cyan .simplePassword:hover input,
+.cyan .simplePasswordButton:hover,
+.cyan .input:hover input,
+.cyan .textarea:hover textarea:not(:focus):not(:disabled),
+.cyan .radio:hover i,
+.cyan .checkbox:hover i,
+.cyan .checkbox-toggle:hover input:not(:checked) + i,
+.cyan .radio-toggle:hover input:not(:checked) + i,
+.cyan input[type=password]:not(:disabled):hover,
+.cyan input[type=text]:not(:disabled):hover,
+.cyan input[type=email]:not(:disabled):hover,
+.cyan input[type=url]:not(:disabled):hover,
+.cyan input[type=search]:not(:disabled):hover,
+.cyan textarea:not(:focus):not(:disabled):hover,
+.cyan .steps,
+.cyan .datetime_datetimepicker.datetime_flat:hover,
+.cyan .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker,
+.cyan .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_prev,
+.cyan .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_next,
+.cyan .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_today_button,
+.cyan .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_label.datetime_month,
+.cyan .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_label.datetime_year,
+.cyan .datetime_datetimepicker.datetime_flat .datetime_timepickerWrapper:hover,
+.cyan .trumbowyg-box:hover,
+.cyan .trumbowyg-box:hover .trumbowyg-button-pane {
+	border-bottom-color: #8dc9e5;
+	border-left-color: #8dc9e5;
+	border-right-color: #8dc9e5;
+	border-top-color: #8dc9e5;
+}
+.cyan .simpleChecker_fillerRight {
+	color: #8dc9e5;
+}
+.cyan .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover i,
+.cyan .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-append, 
+.cyan .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-prepend,
+.cyan .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover i,
+.cyan .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-append, 
+.cyan .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-prepend {
+	border-color: #8dc9e5;
+	color: #8dc9e5;
+}
+.cyan .input.focus:not(.disabled) .icon-append,
+.cyan .input.focus:not(.disabled) .icon-prepend,
+.cyan .textarea.focus:not(.disabled) .icon-append,
+.cyan .textarea.focus:not(.disabled) .icon-prepend,
+.cyan .input.focus:not(.disabled) .icon-append i,
+.cyan .input.focus:not(.disabled) .icon-prepend i,
+.cyan .textarea.focus:not(.disabled) .icon-append i,
+.cyan .textarea.focus:not(.disabled) .icon-prepend i,
+.cyan .checkbox-toggle input:not(:disabled):checked + i,
+.cyan .radio-toggle input:not(:disabled):checked + i,
+.cyan .radio input:not(:disabled):checked + i,
+.cyan .checkbox input:not(:disabled):checked + i,
+.cyan .radio input:not(:disabled):checked + i:after,
+.cyan .checkbox input:not(:disabled):checked + i:after,
+.cyan .checkbox input:not(:disabled) + i:after,
+.cyan .radio-toggle input:not(:disabled):not(:checked) + i:after,
+.cyan .checkbox-toggle input:not(:disabled):not(:checked) + i:after,
+.cyan .ratings input + label:hover,
+.cyan .ratings input + label:hover ~ label,
+.cyan .ratings input:checked + label,
+.cyan .ratings input:checked + label ~ label,
+.cyan .textarea.focus:not(.disabled) .trumbowyg-box,
+.cyan .textarea.focus:not(.disabled) .trumbowyg-box .trumbowyg-button-pane {
+	border-color: #2da5da !important;
+	color: #2da5da !important;
+}
+.cyan .ImageFieldButton,
+.cyan .button.secondary,
+.cyan .simpleChecker:not(.small) .simpleChecker_handler,
+.cyan .simpleChecker:not(.small) .simpleChecker_handler_underlay .simpleChecker_fillerRight span:not(.custom):before,
+.cyan .simpleChecker:not(.small) .simpleChecker_handler_underlay .simpleChecker_fillerRight span:not(.custom):after,
+.cyan .checkbox-toggle i:before,
+.cyan .radio-toggle i:before,
+.cyan .steps,
+.cyan .trumbowyg-box:hover .trumbowyg-separator {
+	background-color: #8dc9e5;
+}
+.cyan .ImageFieldButton:hover, 
+.cyan .button.primary,
+.cyan .ImageFieldPBFiller,
+.cyan .SimpleSliderTrackFiller.original,
+.cyan .simpleChecker:not(.small):not(.disabled):not(.checked):hover .simpleChecker_handler, 
+.cyan .checked .simpleChecker_handler_underlay, 
+.cyan .progressFiller,
+.cyan .checkbox-toggle:hover input:not(:disabled):not(:checked) + i:before,
+.cyan .radio-toggle:hover  input:not(:disabled):not(:checked) + i:before,
+.cyan .checkbox-toggle input:not(:disabled):checked + i,
+.cyan .radio-toggle input:not(:disabled):checked + i,
+.cyan .radio input:not(:disabled) + i:after {
+	background-color: #2da5da;
+}
+.cyan .radio_box_filler,
+.cyan .SimpleSliderThumb.active .thumbView:after,
+.cyan .SimpleSliderThumb.active .thumbView::after,
+.cyan .SimpleSliderThumb.active .thumbView,
+.cyan .SimpleSliderThumb:focus .thumbView:after,
+.cyan .SimpleSliderThumb:focus .thumbView::after,
+.cyan .SimpleSliderThumb:focus .thumbView,
+.cyan .simpleChecker.checked .simpleChecker_filler,
+.cyan .simpleChecker.checked .simpleChecker_handler,
+.cyan .tagMultiSelect_addTag.active,
+.cyan .tag,
+.cyan .tagMultiSelect_tag,
+.cyan .select_box_selector:not(.top),
+.cyan .select_box_selector.top,
+.cyan .MultiBox.focus,
+.cyan .MultiBox.focus .MultiBoxSelector,
+.cyan .MultiBox.focus .MultiBoxInfo,
+.cyan .MultiBox.focus .MultiBoxHeader,
+.cyan .select_box.focus,
+.cyan .AutoGrowTextarea.focus,
+.cyan .AutoGrowTextarea.focus .textarea_counter,
+.cyan .ticker.focus,
+.cyan .tag:before,
+.cyan .tagMultiSelect_tag:before,
+.cyan .tag::before,
+.cyan .tagMultiSelect_tag::before,
+.cyan .radio_box_activator.active,
+.cyan .simplePassword.focus input,
+.cyan input[type=password]:not(:disabled):focus,
+.cyan input[type=text]:not(:disabled):focus,
+.cyan input[type=email]:not(:disabled):focus,
+.cyan input[type=url]:not(:disabled):focus,
+.cyan input[type=search]:not(:disabled):focus,
+.cyan textarea:not(:disabled):focus,
+.cyan .select select:focus,
+.cyan .simpleChecker.small .simpleChecker_handler:before,
+.cyan .active-step .steps {
+	color: #3c3c3c;
+	background: #fff ;
+	border-color: #2da5da;
+	border-bottom-color: #2da5da;
+	border-left-color: #2da5da;
+	border-right-color: #2da5da;
+	border-top-color: #2da5da;
+	outline: none
+}
+.cyan .radio_box_activator.active,
+.cyan .datetime_datetimepicker.datetime_flat .datetime_mounthpicker .datetime_select,
+.cyan .datetime_datetimepicker.datetime_flat .datetime_timepicker,
+.cyan .trumbowyg-box:hover .trumbowyg-modal-box,
+.cyan .trumbowyg-box:hover .trumbowyg-dropdown  {
+	border-color: #2da5da !important;
+}
+/* cyan style ends */
+/* grey style #8f9ca2-hover #455a64-active */
+.grey .tagMultiSelect_selector:hover,
+.grey .tagMultiSelect_selector:hover:before,
+.grey .helpfillSelector:hover,
+.grey .helpfillSelector:hover:before,
+.grey .select select:hover,
+.grey .radio_box_wrapper:hover .radio_box_activator,
+.grey .SimpleSliderThumb:hover .thumbView:after,
+.grey .SimpleSliderThumb:hover .thumbView::after,
+.grey .SimpleSliderThumb:hover .thumbView,
+.grey .SimpleSliderThumb.selected .thumbView,
+.grey .SimpleSliderThumb.selected .thumbView:after,
+.grey .simpleSlider:hover .SimpleSliderTrack:before,
+.grey .simpleSlider:active .SimpleSliderTrack:before,
+.grey .simpleChecker:hover .simpleChecker_filler,
+.grey .MultiBox:hover .MultiBoxSelector,
+.grey .MultiBox:hover,
+.grey .MultiBox:hover .MultiBoxInfo,
+.grey .MultiBox:hover .MultiBoxHeader,
+.grey .radio_box_activator:hover,
+.grey .tagMultiSelect_addTag:hover,
+.grey .select_box.hover,
+.grey .textarea:not(.focus):not(.disabled) .AutoGrowTextarea.hover,
+.grey .textarea:not(.focus):not(.disabled) .AutoGrowTextarea.hover .textarea_counter,
+.grey .textarea:not(.focus):not(.disabled):hover .AutoGrowTextarea,
+.grey .ImageFieldWrapper:hover,
+.grey .ticker.hover,
+.grey .simplePassword:hover input,
+.grey .simplePasswordButton:hover,
+.grey .input:hover input,
+.grey .textarea:hover textarea:not(:focus):not(:disabled),
+.grey .radio:hover i,
+.grey .checkbox:hover i,
+.grey .checkbox-toggle:hover input:not(:checked) + i,
+.grey .radio-toggle:hover input:not(:checked) + i,
+.grey input[type=password]:not(:disabled):hover,
+.grey input[type=text]:not(:disabled):hover,
+.grey input[type=email]:not(:disabled):hover,
+.grey input[type=url]:not(:disabled):hover,
+.grey input[type=search]:not(:disabled):hover,
+.grey textarea:not(:focus):not(:disabled):hover,
+.grey .steps,
+.grey .datetime_datetimepicker.datetime_flat:hover,
+.grey .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker,
+.grey .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_prev,
+.grey .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_next,
+.grey .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_today_button,
+.grey .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_label.datetime_month,
+.grey .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_label.datetime_year,
+.grey .datetime_datetimepicker.datetime_flat .datetime_timepickerWrapper:hover,
+.grey .trumbowyg-box:hover,
+.grey .trumbowyg-box:hover .trumbowyg-button-pane {
+	border-bottom-color: #8f9ca2;
+	border-left-color: #8f9ca2;
+	border-right-color: #8f9ca2;
+	border-top-color: #8f9ca2;
+}
+.grey .simpleChecker_fillerRight {
+	color: #8f9ca2;
+}
+.grey .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover i,
+.grey .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-append, 
+.grey .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-prepend,
+.grey .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover i,
+.grey .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-append, 
+.grey .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-prepend {
+	border-color: #8f9ca2;
+	color: #8f9ca2;
+}
+.grey .input.focus:not(.disabled) .icon-append,
+.grey .input.focus:not(.disabled) .icon-prepend,
+.grey .textarea.focus:not(.disabled) .icon-append,
+.grey .textarea.focus:not(.disabled) .icon-prepend,
+.grey .input.focus:not(.disabled) .icon-append i,
+.grey .input.focus:not(.disabled) .icon-prepend i,
+.grey .textarea.focus:not(.disabled) .icon-append i,
+.grey .textarea.focus:not(.disabled) .icon-prepend i,
+.grey .checkbox-toggle input:not(:disabled):checked + i,
+.grey .radio-toggle input:not(:disabled):checked + i,
+.grey .radio input:not(:disabled):checked + i,
+.grey .checkbox input:not(:disabled):checked + i,
+.grey .radio input:not(:disabled):checked + i:after,
+.grey .checkbox input:not(:disabled):checked + i:after,
+.grey .checkbox input:not(:disabled) + i:after,
+.grey .radio-toggle input:not(:disabled):not(:checked) + i:after,
+.grey .checkbox-toggle input:not(:disabled):not(:checked) + i:after,
+.grey .ratings input + label:hover,
+.grey .ratings input + label:hover ~ label,
+.grey .ratings input:checked + label,
+.grey .ratings input:checked + label ~ label,
+.grey .textarea.focus:not(.disabled) .trumbowyg-box,
+.grey .textarea.focus:not(.disabled) .trumbowyg-box .trumbowyg-button-pane {
+	border-color: #455a64 !important;
+	color: #455a64 !important;
+}
+.grey .ImageFieldButton,
+.grey .button.secondary,
+.grey .simpleChecker:not(.small) .simpleChecker_handler,
+.grey .simpleChecker:not(.small) .simpleChecker_handler_underlay .simpleChecker_fillerRight span:not(.custom):before,
+.grey .simpleChecker:not(.small) .simpleChecker_handler_underlay .simpleChecker_fillerRight span:not(.custom):after,
+.grey .checkbox-toggle i:before,
+.grey .radio-toggle i:before,
+.grey .steps,
+.grey .trumbowyg-box:hover .trumbowyg-separator {
+	background-color: #8f9ca2;
+}
+.grey .ImageFieldButton:hover, 
+.grey .button.primary,
+.grey .ImageFieldPBFiller,
+.grey .SimpleSliderTrackFiller.original,
+.grey .simpleChecker:not(.small):not(.disabled):not(.checked):hover .simpleChecker_handler, 
+.grey .checked .simpleChecker_handler_underlay, 
+.grey .progressFiller,
+.grey .checkbox-toggle:hover input:not(:disabled):not(:checked) + i:before,
+.grey .radio-toggle:hover  input:not(:disabled):not(:checked) + i:before,
+.grey .checkbox-toggle input:not(:disabled):checked + i,
+.grey .radio-toggle input:not(:disabled):checked + i,
+.grey .radio input:not(:disabled) + i:after {
+	background-color: #455a64;
+}
+.grey .radio_box_filler,
+.grey .SimpleSliderThumb.active .thumbView:after,
+.grey .SimpleSliderThumb.active .thumbView::after,
+.grey .SimpleSliderThumb.active .thumbView,
+.grey .SimpleSliderThumb:focus .thumbView:after,
+.grey .SimpleSliderThumb:focus .thumbView::after,
+.grey .SimpleSliderThumb:focus .thumbView,
+.grey .simpleChecker.checked .simpleChecker_filler,
+.grey .simpleChecker.checked .simpleChecker_handler,
+.grey .tagMultiSelect_addTag.active,
+.grey .tag,
+.grey .tagMultiSelect_tag,
+.grey .select_box_selector:not(.top),
+.grey .select_box_selector.top,
+.grey .MultiBox.focus,
+.grey .MultiBox.focus .MultiBoxSelector,
+.grey .MultiBox.focus .MultiBoxInfo,
+.grey .MultiBox.focus .MultiBoxHeader,
+.grey .select_box.focus,
+.grey .AutoGrowTextarea.focus,
+.grey .AutoGrowTextarea.focus .textarea_counter,
+.grey .ticker.focus,
+.grey .tag:before,
+.grey .tagMultiSelect_tag:before,
+.grey .tag::before,
+.grey .tagMultiSelect_tag::before,
+.grey .radio_box_activator.active,
+.grey .simplePassword.focus input,
+.grey input[type=password]:not(:disabled):focus,
+.grey input[type=text]:not(:disabled):focus,
+.grey input[type=email]:not(:disabled):focus,
+.grey input[type=url]:not(:disabled):focus,
+.grey input[type=search]:not(:disabled):focus,
+.grey textarea:not(:disabled):focus,
+.grey .select select:focus,
+.grey .simpleChecker.small .simpleChecker_handler:before,
+.grey .active-step .steps {
+	color: #3c3c3c;
+	background: #fff ;
+	border-color: #455a64;
+	border-bottom-color: #455a64;
+	border-left-color: #455a64;
+	border-right-color: #455a64;
+	border-top-color: #455a64;
+	outline: none
+}
+.grey .radio_box_activator.active,
+.grey .datetime_datetimepicker.datetime_flat .datetime_mounthpicker .datetime_select,
+.grey .datetime_datetimepicker.datetime_flat .datetime_timepicker,
+.grey .trumbowyg-box:hover .trumbowyg-modal-box,
+.grey .trumbowyg-box:hover .trumbowyg-dropdown  {
+	border-color: #455a64 !important;
+}
+/* grey style ends */
+/* green style #91e393-hover #43bf43-active */
+.green .tagMultiSelect_selector:hover,
+.green .tagMultiSelect_selector:hover:before,
+.green .helpfillSelector:hover,
+.green .helpfillSelector:hover:before,
+.green .select select:hover,
+.green .radio_box_wrapper:hover .radio_box_activator,
+.green .SimpleSliderThumb:hover .thumbView:after,
+.green .SimpleSliderThumb:hover .thumbView::after,
+.green .SimpleSliderThumb:hover .thumbView,
+.green .SimpleSliderThumb.selected .thumbView,
+.green .SimpleSliderThumb.selected .thumbView:after,
+.green .simpleSlider:hover .SimpleSliderTrack:before,
+.green .simpleSlider:active .SimpleSliderTrack:before,
+.green .simpleChecker:hover .simpleChecker_filler,
+.green .MultiBox:hover .MultiBoxSelector,
+.green .MultiBox:hover,
+.green .MultiBox:hover .MultiBoxInfo,
+.green .MultiBox:hover .MultiBoxHeader,
+.green .radio_box_activator:hover,
+.green .tagMultiSelect_addTag:hover,
+.green .select_box.hover,
+.green .textarea:not(.focus):not(.disabled) .AutoGrowTextarea.hover,
+.green .textarea:not(.focus):not(.disabled) .AutoGrowTextarea.hover .textarea_counter,
+.green .textarea:not(.focus):not(.disabled):hover .AutoGrowTextarea,
+.green .ImageFieldWrapper:hover,
+.green .ticker.hover,
+.green .simplePassword:hover input,
+.green .simplePasswordButton:hover,
+.green .input:hover input,
+.green .textarea:hover textarea:not(:focus):not(:disabled),
+.green .radio:hover i,
+.green .checkbox:hover i,
+.green .checkbox-toggle:hover input:not(:checked) + i,
+.green .radio-toggle:hover input:not(:checked) + i,
+.green input[type=password]:not(:disabled):hover,
+.green input[type=text]:not(:disabled):hover,
+.green input[type=email]:not(:disabled):hover,
+.green input[type=url]:not(:disabled):hover,
+.green input[type=search]:not(:disabled):hover,
+.green textarea:not(:focus):not(:disabled):hover,
+.green .steps,
+.green .datetime_datetimepicker.datetime_flat:hover,
+.green .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker,
+.green .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_prev,
+.green .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_next,
+.green .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_today_button,
+.green .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_label.datetime_month,
+.green .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_label.datetime_year,
+.green .datetime_datetimepicker.datetime_flat .datetime_timepickerWrapper:hover,
+.green .trumbowyg-box:hover,
+.green .trumbowyg-box:hover .trumbowyg-button-pane {
+	border-bottom-color: #91e393;
+	border-left-color: #91e393;
+	border-right-color: #91e393;
+	border-top-color: #91e393;
+}
+.green .simpleChecker_fillerRight {
+	color: #91e393;
+}
+.green .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover i,
+.green .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-append, 
+.green .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-prepend,
+.green .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover i,
+.green .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-append, 
+.green .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-prepend {
+	border-color: #91e393;
+	color: #91e393;
+}
+.green .input.focus:not(.disabled) .icon-append,
+.green .input.focus:not(.disabled) .icon-prepend,
+.green .textarea.focus:not(.disabled) .icon-append,
+.green .textarea.focus:not(.disabled) .icon-prepend,
+.green .input.focus:not(.disabled) .icon-append i,
+.green .input.focus:not(.disabled) .icon-prepend i,
+.green .textarea.focus:not(.disabled) .icon-append i,
+.green .textarea.focus:not(.disabled) .icon-prepend i,
+.green .checkbox-toggle input:not(:disabled):checked + i,
+.green .radio-toggle input:not(:disabled):checked + i,
+.green .radio input:not(:disabled):checked + i,
+.green .checkbox input:not(:disabled):checked + i,
+.green .radio input:not(:disabled):checked + i:after,
+.green .checkbox input:not(:disabled):checked + i:after,
+.green .checkbox input:not(:disabled) + i:after,
+.green .radio-toggle input:not(:disabled):not(:checked) + i:after,
+.green .checkbox-toggle input:not(:disabled):not(:checked) + i:after,
+.green .ratings input + label:hover,
+.green .ratings input + label:hover ~ label,
+.green .ratings input:checked + label,
+.green .ratings input:checked + label ~ label,
+.green .textarea.focus:not(.disabled) .trumbowyg-box,
+.green .textarea.focus:not(.disabled) .trumbowyg-box .trumbowyg-button-pane {
+	border-color: #43bf43 !important;
+	color: #43bf43 !important;
+}
+.green .ImageFieldButton,
+.green .button.secondary,
+.green .simpleChecker:not(.small) .simpleChecker_handler,
+.green .simpleChecker:not(.small) .simpleChecker_handler_underlay .simpleChecker_fillerRight span:not(.custom):before,
+.green .simpleChecker:not(.small) .simpleChecker_handler_underlay .simpleChecker_fillerRight span:not(.custom):after,
+.green .checkbox-toggle i:before,
+.green .radio-toggle i:before,
+.green .steps,
+.green .trumbowyg-box:hover .trumbowyg-separator {
+	background-color: #91e393;
+}
+.green .ImageFieldButton:hover, 
+.green .button.primary,
+.green .ImageFieldPBFiller,
+.green .SimpleSliderTrackFiller.original,
+.green .simpleChecker:not(.small):not(.disabled):not(.checked):hover .simpleChecker_handler, 
+.green .checked .simpleChecker_handler_underlay, 
+.green .progressFiller,
+.green .checkbox-toggle:hover input:not(:disabled):not(:checked) + i:before,
+.green .radio-toggle:hover  input:not(:disabled):not(:checked) + i:before,
+.green .checkbox-toggle input:not(:disabled):checked + i,
+.green .radio-toggle input:not(:disabled):checked + i,
+.green .radio input:not(:disabled) + i:after {
+	background-color: #43bf43;
+}
+.green .radio_box_filler,
+.green .SimpleSliderThumb.active .thumbView:after,
+.green .SimpleSliderThumb.active .thumbView::after,
+.green .SimpleSliderThumb.active .thumbView,
+.green .SimpleSliderThumb:focus .thumbView:after,
+.green .SimpleSliderThumb:focus .thumbView::after,
+.green .SimpleSliderThumb:focus .thumbView,
+.green .simpleChecker.checked .simpleChecker_filler,
+.green .simpleChecker.checked .simpleChecker_handler,
+.green .tagMultiSelect_addTag.active,
+.green .tag,
+.green .tagMultiSelect_tag,
+.green .select_box_selector:not(.top),
+.green .select_box_selector.top,
+.green .MultiBox.focus,
+.green .MultiBox.focus .MultiBoxSelector,
+.green .MultiBox.focus .MultiBoxInfo,
+.green .MultiBox.focus .MultiBoxHeader,
+.green .select_box.focus,
+.green .AutoGrowTextarea.focus,
+.green .AutoGrowTextarea.focus .textarea_counter,
+.green .ticker.focus,
+.green .tag:before,
+.green .tagMultiSelect_tag:before,
+.green .tag::before,
+.green .tagMultiSelect_tag::before,
+.green .radio_box_activator.active,
+.green .simplePassword.focus input,
+.green input[type=password]:not(:disabled):focus,
+.green input[type=text]:not(:disabled):focus,
+.green input[type=email]:not(:disabled):focus,
+.green input[type=url]:not(:disabled):focus,
+.green input[type=search]:not(:disabled):focus,
+.green textarea:not(:disabled):focus,
+.green .select select:focus,
+.green .simpleChecker.small .simpleChecker_handler:before,
+.green .active-step .steps {
+	color: #3c3c3c;
+	background: #fff ;
+	border-color: #43bf43;
+	border-bottom-color: #43bf43;
+	border-left-color: #43bf43;
+	border-right-color: #43bf43;
+	border-top-color: #43bf43;
+	outline: none
+}
+.green .radio_box_activator.active,
+.green .datetime_datetimepicker.datetime_flat .datetime_mounthpicker .datetime_select,
+.green .datetime_datetimepicker.datetime_flat .datetime_timepicker,
+.green .trumbowyg-box:hover .trumbowyg-modal-box,
+.green .trumbowyg-box:hover .trumbowyg-dropdown  {
+	border-color: #43bf43 !important;
+}
+/* green style ends */
+/* mint style #83e5e1-hover #14aea8-active */
+.mint .tagMultiSelect_selector:hover,
+.mint .tagMultiSelect_selector:hover:before,
+.mint .helpfillSelector:hover,
+.mint .helpfillSelector:hover:before,
+.mint .select select:hover,
+.mint .radio_box_wrapper:hover .radio_box_activator,
+.mint .SimpleSliderThumb:hover .thumbView:after,
+.mint .SimpleSliderThumb:hover .thumbView::after,
+.mint .SimpleSliderThumb:hover .thumbView,
+.mint .SimpleSliderThumb.selected .thumbView,
+.mint .SimpleSliderThumb.selected .thumbView:after,
+.mint .simpleSlider:hover .SimpleSliderTrack:before,
+.mint .simpleSlider:active .SimpleSliderTrack:before,
+.mint .simpleChecker:hover .simpleChecker_filler,
+.mint .MultiBox:hover .MultiBoxSelector,
+.mint .MultiBox:hover,
+.mint .MultiBox:hover .MultiBoxInfo,
+.mint .MultiBox:hover .MultiBoxHeader,
+.mint .radio_box_activator:hover,
+.mint .tagMultiSelect_addTag:hover,
+.mint .select_box.hover,
+.mint .textarea:not(.focus):not(.disabled) .AutoGrowTextarea.hover,
+.mint .textarea:not(.focus):not(.disabled) .AutoGrowTextarea.hover .textarea_counter,
+.mint .textarea:not(.focus):not(.disabled):hover .AutoGrowTextarea,
+.mint .ImageFieldWrapper:hover,
+.mint .ticker.hover,
+.mint .simplePassword:hover input,
+.mint .simplePasswordButton:hover,
+.mint .input:hover input,
+.mint .textarea:hover textarea:not(:focus):not(:disabled),
+.mint .radio:hover i,
+.mint .checkbox:hover i,
+.mint .checkbox-toggle:hover input:not(:checked) + i,
+.mint .radio-toggle:hover input:not(:checked) + i,
+.mint input[type=password]:not(:disabled):hover,
+.mint input[type=text]:not(:disabled):hover,
+.mint input[type=email]:not(:disabled):hover,
+.mint input[type=url]:not(:disabled):hover,
+.mint input[type=search]:not(:disabled):hover,
+.mint textarea:not(:focus):not(:disabled):hover,
+.mint .steps,
+.mint .datetime_datetimepicker.datetime_flat:hover,
+.mint .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker,
+.mint .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_prev,
+.mint .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_next,
+.mint .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_today_button,
+.mint .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_label.datetime_month,
+.mint .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_label.datetime_year,
+.mint .datetime_datetimepicker.datetime_flat .datetime_timepickerWrapper:hover,
+.mint .trumbowyg-box:hover,
+.mint .trumbowyg-box:hover .trumbowyg-button-pane {
+	border-bottom-color: #83e5e1;
+	border-left-color: #83e5e1;
+	border-right-color: #83e5e1;
+	border-top-color: #83e5e1;
+}
+.mint .simpleChecker_fillerRight {
+	color: #83e5e1;
+}
+.mint .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover i,
+.mint .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-append, 
+.mint .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-prepend,
+.mint .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover i,
+.mint .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-append, 
+.mint .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-prepend {
+	border-color: #83e5e1;
+	color: #83e5e1;
+}
+.mint .input.focus:not(.disabled) .icon-append,
+.mint .input.focus:not(.disabled) .icon-prepend,
+.mint .textarea.focus:not(.disabled) .icon-append,
+.mint .textarea.focus:not(.disabled) .icon-prepend,
+.mint .input.focus:not(.disabled) .icon-append i,
+.mint .input.focus:not(.disabled) .icon-prepend i,
+.mint .textarea.focus:not(.disabled) .icon-append i,
+.mint .textarea.focus:not(.disabled) .icon-prepend i,
+.mint .checkbox-toggle input:not(:disabled):checked + i,
+.mint .radio-toggle input:not(:disabled):checked + i,
+.mint .radio input:not(:disabled):checked + i,
+.mint .checkbox input:not(:disabled):checked + i,
+.mint .radio input:not(:disabled):checked + i:after,
+.mint .checkbox input:not(:disabled):checked + i:after,
+.mint .checkbox input:not(:disabled) + i:after,
+.mint .radio-toggle input:not(:disabled):not(:checked) + i:after,
+.mint .checkbox-toggle input:not(:disabled):not(:checked) + i:after,
+.mint .ratings input + label:hover,
+.mint .ratings input + label:hover ~ label,
+.mint .ratings input:checked + label,
+.mint .ratings input:checked + label ~ label,
+.mint .textarea.focus:not(.disabled) .trumbowyg-box,
+.mint .textarea.focus:not(.disabled) .trumbowyg-box .trumbowyg-button-pane {
+	border-color: #14aea8 !important;
+	color: #14aea8 !important;
+}
+.mint .ImageFieldButton,
+.mint .button.secondary,
+.mint .simpleChecker:not(.small) .simpleChecker_handler,
+.mint .simpleChecker:not(.small) .simpleChecker_handler_underlay .simpleChecker_fillerRight span:not(.custom):before,
+.mint .simpleChecker:not(.small) .simpleChecker_handler_underlay .simpleChecker_fillerRight span:not(.custom):after,
+.mint .checkbox-toggle i:before,
+.mint .radio-toggle i:before,
+.mint .steps,
+.mint .trumbowyg-box:hover .trumbowyg-separator {
+	background-color: #83e5e1;
+}
+.mint .ImageFieldButton:hover, 
+.mint .button.primary,
+.mint .ImageFieldPBFiller,
+.mint .SimpleSliderTrackFiller.original,
+.mint .simpleChecker:not(.small):not(.disabled):not(.checked):hover .simpleChecker_handler, 
+.mint .checked .simpleChecker_handler_underlay, 
+.mint .progressFiller,
+.mint .checkbox-toggle:hover input:not(:disabled):not(:checked) + i:before,
+.mint .radio-toggle:hover  input:not(:disabled):not(:checked) + i:before,
+.mint .checkbox-toggle input:not(:disabled):checked + i,
+.mint .radio-toggle input:not(:disabled):checked + i,
+.mint .radio input:not(:disabled) + i:after {
+	background-color: #14aea8;
+}
+.mint .radio_box_filler,
+.mint .SimpleSliderThumb.active .thumbView:after,
+.mint .SimpleSliderThumb.active .thumbView::after,
+.mint .SimpleSliderThumb.active .thumbView,
+.mint .SimpleSliderThumb:focus .thumbView:after,
+.mint .SimpleSliderThumb:focus .thumbView::after,
+.mint .SimpleSliderThumb:focus .thumbView,
+.mint .simpleChecker.checked .simpleChecker_filler,
+.mint .simpleChecker.checked .simpleChecker_handler,
+.mint .tagMultiSelect_addTag.active,
+.mint .tag,
+.mint .tagMultiSelect_tag,
+.mint .select_box_selector:not(.top),
+.mint .select_box_selector.top,
+.mint .MultiBox.focus,
+.mint .MultiBox.focus .MultiBoxSelector,
+.mint .MultiBox.focus .MultiBoxInfo,
+.mint .MultiBox.focus .MultiBoxHeader,
+.mint .select_box.focus,
+.mint .AutoGrowTextarea.focus,
+.mint .AutoGrowTextarea.focus .textarea_counter,
+.mint .ticker.focus,
+.mint .tag:before,
+.mint .tagMultiSelect_tag:before,
+.mint .tag::before,
+.mint .tagMultiSelect_tag::before,
+.mint .radio_box_activator.active,
+.mint .simplePassword.focus input,
+.mint input[type=password]:not(:disabled):focus,
+.mint input[type=text]:not(:disabled):focus,
+.mint input[type=email]:not(:disabled):focus,
+.mint input[type=url]:not(:disabled):focus,
+.mint input[type=search]:not(:disabled):focus,
+.mint textarea:not(:disabled):focus,
+.mint .select select:focus,
+.mint .simpleChecker.small .simpleChecker_handler:before,
+.mint .active-step .steps {
+	color: #3c3c3c;
+	background: #fff ;
+	border-color: #14aea8;
+	border-bottom-color: #14aea8;
+	border-left-color: #14aea8;
+	border-right-color: #14aea8;
+	border-top-color: #14aea8;
+	outline: none
+}
+.mint .radio_box_activator.active,
+.mint .datetime_datetimepicker.datetime_flat .datetime_mounthpicker .datetime_select,
+.mint .datetime_datetimepicker.datetime_flat .datetime_timepicker,
+.mint .trumbowyg-box:hover .trumbowyg-modal-box,
+.mint .trumbowyg-box:hover .trumbowyg-dropdown  {
+	border-color: #14aea8 !important;
+}
+/* mint style ends */
+/* orange style #f5b093-hover #fd7337-active */
+.orange .tagMultiSelect_selector:hover,
+.orange .tagMultiSelect_selector:hover:before,
+.orange .helpfillSelector:hover,
+.orange .helpfillSelector:hover:before,
+.orange .select select:hover,
+.orange .radio_box_wrapper:hover .radio_box_activator,
+.orange .SimpleSliderThumb:hover .thumbView:after,
+.orange .SimpleSliderThumb:hover .thumbView::after,
+.orange .SimpleSliderThumb:hover .thumbView,
+.orange .SimpleSliderThumb.selected .thumbView,
+.orange .SimpleSliderThumb.selected .thumbView:after,
+.orange .simpleSlider:hover .SimpleSliderTrack:before,
+.orange .simpleSlider:active .SimpleSliderTrack:before,
+.orange .simpleChecker:hover .simpleChecker_filler,
+.orange .MultiBox:hover .MultiBoxSelector,
+.orange .MultiBox:hover,
+.orange .MultiBox:hover .MultiBoxInfo,
+.orange .MultiBox:hover .MultiBoxHeader,
+.orange .radio_box_activator:hover,
+.orange .tagMultiSelect_addTag:hover,
+.orange .select_box.hover,
+.orange .textarea:not(.focus):not(.disabled) .AutoGrowTextarea.hover,
+.orange .textarea:not(.focus):not(.disabled) .AutoGrowTextarea.hover .textarea_counter,
+.orange .textarea:not(.focus):not(.disabled):hover .AutoGrowTextarea,
+.orange .ImageFieldWrapper:hover,
+.orange .ticker.hover,
+.orange .simplePassword:hover input,
+.orange .simplePasswordButton:hover,
+.orange .input:hover input,
+.orange .textarea:hover textarea:not(:focus):not(:disabled),
+.orange .radio:hover i,
+.orange .checkbox:hover i,
+.orange .checkbox-toggle:hover input:not(:checked) + i,
+.orange .radio-toggle:hover input:not(:checked) + i,
+.orange input[type=password]:not(:disabled):hover,
+.orange input[type=text]:not(:disabled):hover,
+.orange input[type=email]:not(:disabled):hover,
+.orange input[type=url]:not(:disabled):hover,
+.orange input[type=search]:not(:disabled):hover,
+.orange textarea:not(:focus):not(:disabled):hover,
+.orange .steps,
+.orange .datetime_datetimepicker.datetime_flat:hover,
+.orange .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker,
+.orange .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_prev,
+.orange .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_next,
+.orange .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_today_button,
+.orange .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_label.datetime_month,
+.orange .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_label.datetime_year,
+.orange .datetime_datetimepicker.datetime_flat .datetime_timepickerWrapper:hover,
+.orange .trumbowyg-box:hover,
+.orange .trumbowyg-box:hover .trumbowyg-button-pane {
+	border-bottom-color: #f5b093;
+	border-left-color: #f5b093;
+	border-right-color: #f5b093;
+	border-top-color: #f5b093;
+}
+.orange .simpleChecker_fillerRight {
+	color: #f5b093;
+}
+.orange .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover i,
+.orange .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-append, 
+.orange .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-prepend,
+.orange .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover i,
+.orange .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-append, 
+.orange .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-prepend {
+	border-color: #f5b093;
+	color: #f5b093;
+}
+.orange .input.focus:not(.disabled) .icon-append,
+.orange .input.focus:not(.disabled) .icon-prepend,
+.orange .textarea.focus:not(.disabled) .icon-append,
+.orange .textarea.focus:not(.disabled) .icon-prepend,
+.orange .input.focus:not(.disabled) .icon-append i,
+.orange .input.focus:not(.disabled) .icon-prepend i,
+.orange .textarea.focus:not(.disabled) .icon-append i,
+.orange .textarea.focus:not(.disabled) .icon-prepend i,
+.orange .checkbox-toggle input:not(:disabled):checked + i,
+.orange .radio-toggle input:not(:disabled):checked + i,
+.orange .radio input:not(:disabled):checked + i,
+.orange .checkbox input:not(:disabled):checked + i,
+.orange .radio input:not(:disabled):checked + i:after,
+.orange .checkbox input:not(:disabled):checked + i:after,
+.orange .checkbox input:not(:disabled) + i:after,
+.orange .radio-toggle input:not(:disabled):not(:checked) + i:after,
+.orange .checkbox-toggle input:not(:disabled):not(:checked) + i:after,
+.orange .ratings input + label:hover,
+.orange .ratings input + label:hover ~ label,
+.orange .ratings input:checked + label,
+.orange .ratings input:checked + label ~ label,
+.orange .textarea.focus:not(.disabled) .trumbowyg-box,
+.orange .textarea.focus:not(.disabled) .trumbowyg-box .trumbowyg-button-pane {
+	border-color: #fd7337 !important;
+	color: #fd7337 !important;
+}
+.orange .ImageFieldButton,
+.orange .button.secondary,
+.orange .simpleChecker:not(.small) .simpleChecker_handler,
+.orange .simpleChecker:not(.small) .simpleChecker_handler_underlay .simpleChecker_fillerRight span:not(.custom):before,
+.orange .simpleChecker:not(.small) .simpleChecker_handler_underlay .simpleChecker_fillerRight span:not(.custom):after,
+.orange .checkbox-toggle i:before,
+.orange .radio-toggle i:before,
+.orange .steps,
+.orange .trumbowyg-box:hover .trumbowyg-separator {
+	background-color: #f5b093;
+}
+.orange .ImageFieldButton:hover, 
+.orange .button.primary,
+.orange .ImageFieldPBFiller,
+.orange .SimpleSliderTrackFiller.original,
+.orange .simpleChecker:not(.small):not(.disabled):not(.checked):hover .simpleChecker_handler, 
+.orange .checked .simpleChecker_handler_underlay, 
+.orange .progressFiller,
+.orange .checkbox-toggle:hover input:not(:disabled):not(:checked) + i:before,
+.orange .radio-toggle:hover  input:not(:disabled):not(:checked) + i:before,
+.orange .checkbox-toggle input:not(:disabled):checked + i,
+.orange .radio-toggle input:not(:disabled):checked + i,
+.orange .radio input:not(:disabled) + i:after {
+	background-color: #fd7337;
+}
+.orange .radio_box_filler,
+.orange .SimpleSliderThumb.active .thumbView:after,
+.orange .SimpleSliderThumb.active .thumbView::after,
+.orange .SimpleSliderThumb.active .thumbView,
+.orange .SimpleSliderThumb:focus .thumbView:after,
+.orange .SimpleSliderThumb:focus .thumbView::after,
+.orange .SimpleSliderThumb:focus .thumbView,
+.orange .simpleChecker.checked .simpleChecker_filler,
+.orange .simpleChecker.checked .simpleChecker_handler,
+.orange .tagMultiSelect_addTag.active,
+.orange .tag,
+.orange .tagMultiSelect_tag,
+.orange .select_box_selector:not(.top),
+.orange .select_box_selector.top,
+.orange .MultiBox.focus,
+.orange .MultiBox.focus .MultiBoxSelector,
+.orange .MultiBox.focus .MultiBoxInfo,
+.orange .MultiBox.focus .MultiBoxHeader,
+.orange .select_box.focus,
+.orange .AutoGrowTextarea.focus,
+.orange .AutoGrowTextarea.focus .textarea_counter,
+.orange .ticker.focus,
+.orange .tag:before,
+.orange .tagMultiSelect_tag:before,
+.orange .tag::before,
+.orange .tagMultiSelect_tag::before,
+.orange .radio_box_activator.active,
+.orange .simplePassword.focus input,
+.orange input[type=password]:not(:disabled):focus,
+.orange input[type=text]:not(:disabled):focus,
+.orange input[type=email]:not(:disabled):focus,
+.orange input[type=url]:not(:disabled):focus,
+.orange input[type=search]:not(:disabled):focus,
+.orange textarea:not(:disabled):focus,
+.orange .select select:focus,
+.orange .simpleChecker.small .simpleChecker_handler:before,
+.orange .active-step .steps {
+	color: #3c3c3c;
+	background: #fff ;
+	border-color: #fd7337;
+	border-bottom-color: #fd7337;
+	border-left-color: #fd7337;
+	border-right-color: #fd7337;
+	border-top-color: #fd7337;
+	outline: none
+}
+.orange .radio_box_activator.active,
+.orange .datetime_datetimepicker.datetime_flat .datetime_mounthpicker .datetime_select,
+.orange .datetime_datetimepicker.datetime_flat .datetime_timepicker,
+.orange .trumbowyg-box:hover .trumbowyg-modal-box,
+.orange .trumbowyg-box:hover .trumbowyg-dropdown  {
+	border-color: #fd7337 !important;
+}
+/* orange style ends */
+/* pink style #df9ab7-hover #d2477e-active */
+.pink .tagMultiSelect_selector:hover,
+.pink .tagMultiSelect_selector:hover:before,
+.pink .helpfillSelector:hover,
+.pink .helpfillSelector:hover:before,
+.pink .select select:hover,
+.pink .radio_box_wrapper:hover .radio_box_activator,
+.pink .SimpleSliderThumb:hover .thumbView:after,
+.pink .SimpleSliderThumb:hover .thumbView::after,
+.pink .SimpleSliderThumb:hover .thumbView,
+.pink .SimpleSliderThumb.selected .thumbView,
+.pink .SimpleSliderThumb.selected .thumbView:after,
+.pink .simpleSlider:hover .SimpleSliderTrack:before,
+.pink .simpleSlider:active .SimpleSliderTrack:before,
+.pink .simpleChecker:hover .simpleChecker_filler,
+.pink .MultiBox:hover .MultiBoxSelector,
+.pink .MultiBox:hover,
+.pink .MultiBox:hover .MultiBoxInfo,
+.pink .MultiBox:hover .MultiBoxHeader,
+.pink .radio_box_activator:hover,
+.pink .tagMultiSelect_addTag:hover,
+.pink .select_box.hover,
+.pink .textarea:not(.focus):not(.disabled) .AutoGrowTextarea.hover,
+.pink .textarea:not(.focus):not(.disabled) .AutoGrowTextarea.hover .textarea_counter,
+.pink .textarea:not(.focus):not(.disabled):hover .AutoGrowTextarea,
+.pink .ImageFieldWrapper:hover,
+.pink .ticker.hover,
+.pink .simplePassword:hover input,
+.pink .simplePasswordButton:hover,
+.pink .input:hover input,
+.pink .textarea:hover textarea:not(:focus):not(:disabled),
+.pink .radio:hover i,
+.pink .checkbox:hover i,
+.pink .checkbox-toggle:hover input:not(:checked) + i,
+.pink .radio-toggle:hover input:not(:checked) + i,
+.pink input[type=password]:not(:disabled):hover,
+.pink input[type=text]:not(:disabled):hover,
+.pink input[type=email]:not(:disabled):hover,
+.pink input[type=url]:not(:disabled):hover,
+.pink input[type=search]:not(:disabled):hover,
+.pink textarea:not(:focus):not(:disabled):hover,
+.pink .steps,
+.pink .datetime_datetimepicker.datetime_flat:hover,
+.pink .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker,
+.pink .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_prev,
+.pink .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_next,
+.pink .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_today_button,
+.pink .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_label.datetime_month,
+.pink .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_label.datetime_year,
+.pink .datetime_datetimepicker.datetime_flat .datetime_timepickerWrapper:hover,
+.pink .trumbowyg-box:hover,
+.pink .trumbowyg-box:hover .trumbowyg-button-pane {
+	border-bottom-color: #df9ab7;
+	border-left-color: #df9ab7;
+	border-right-color: #df9ab7;
+	border-top-color: #df9ab7;
+}
+.pink .simpleChecker_fillerRight {
+	color: #df9ab7;
+}
+.pink .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover i,
+.pink .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-append, 
+.pink .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-prepend,
+.pink .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover i,
+.pink .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-append, 
+.pink .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-prepend {
+	border-color: #df9ab7;
+	color: #df9ab7;
+}
+.pink .input.focus:not(.disabled) .icon-append,
+.pink .input.focus:not(.disabled) .icon-prepend,
+.pink .textarea.focus:not(.disabled) .icon-append,
+.pink .textarea.focus:not(.disabled) .icon-prepend,
+.pink .input.focus:not(.disabled) .icon-append i,
+.pink .input.focus:not(.disabled) .icon-prepend i,
+.pink .textarea.focus:not(.disabled) .icon-append i,
+.pink .textarea.focus:not(.disabled) .icon-prepend i,
+.pink .checkbox-toggle input:not(:disabled):checked + i,
+.pink .radio-toggle input:not(:disabled):checked + i,
+.pink .radio input:not(:disabled):checked + i,
+.pink .checkbox input:not(:disabled):checked + i,
+.pink .radio input:not(:disabled):checked + i:after,
+.pink .checkbox input:not(:disabled):checked + i:after,
+.pink .checkbox input:not(:disabled) + i:after,
+.pink .radio-toggle input:not(:disabled):not(:checked) + i:after,
+.pink .checkbox-toggle input:not(:disabled):not(:checked) + i:after,
+.pink .ratings input + label:hover,
+.pink .ratings input + label:hover ~ label,
+.pink .ratings input:checked + label,
+.pink .ratings input:checked + label ~ label,
+.pink .textarea.focus:not(.disabled) .trumbowyg-box,
+.pink .textarea.focus:not(.disabled) .trumbowyg-box .trumbowyg-button-pane {
+	border-color: #d2477e !important;
+	color: #d2477e !important;
+}
+.pink .ImageFieldButton,
+.pink .button.secondary,
+.pink .simpleChecker:not(.small) .simpleChecker_handler,
+.pink .simpleChecker:not(.small) .simpleChecker_handler_underlay .simpleChecker_fillerRight span:not(.custom):before,
+.pink .simpleChecker:not(.small) .simpleChecker_handler_underlay .simpleChecker_fillerRight span:not(.custom):after,
+.pink .checkbox-toggle i:before,
+.pink .radio-toggle i:before,
+.pink .steps,
+.pink .trumbowyg-box:hover .trumbowyg-separator {
+	background-color: #df9ab7;
+}
+.pink .ImageFieldButton:hover, 
+.pink .button.primary,
+.pink .ImageFieldPBFiller,
+.pink .SimpleSliderTrackFiller.original,
+.pink .simpleChecker:not(.small):not(.disabled):not(.checked):hover .simpleChecker_handler, 
+.pink .checked .simpleChecker_handler_underlay, 
+.pink .progressFiller,
+.pink .checkbox-toggle:hover input:not(:disabled):not(:checked) + i:before,
+.pink .radio-toggle:hover  input:not(:disabled):not(:checked) + i:before,
+.pink .checkbox-toggle input:not(:disabled):checked + i,
+.pink .radio-toggle input:not(:disabled):checked + i,
+.pink .radio input:not(:disabled) + i:after {
+	background-color: #d2477e;
+}
+.pink .radio_box_filler,
+.pink .SimpleSliderThumb.active .thumbView:after,
+.pink .SimpleSliderThumb.active .thumbView::after,
+.pink .SimpleSliderThumb.active .thumbView,
+.pink .SimpleSliderThumb:focus .thumbView:after,
+.pink .SimpleSliderThumb:focus .thumbView::after,
+.pink .SimpleSliderThumb:focus .thumbView,
+.pink .simpleChecker.checked .simpleChecker_filler,
+.pink .simpleChecker.checked .simpleChecker_handler,
+.pink .tagMultiSelect_addTag.active,
+.pink .tag,
+.pink .tagMultiSelect_tag,
+.pink .select_box_selector:not(.top),
+.pink .select_box_selector.top,
+.pink .MultiBox.focus,
+.pink .MultiBox.focus .MultiBoxSelector,
+.pink .MultiBox.focus .MultiBoxInfo,
+.pink .MultiBox.focus .MultiBoxHeader,
+.pink .select_box.focus,
+.pink .AutoGrowTextarea.focus,
+.pink .AutoGrowTextarea.focus .textarea_counter,
+.pink .ticker.focus,
+.pink .tag:before,
+.pink .tagMultiSelect_tag:before,
+.pink .tag::before,
+.pink .tagMultiSelect_tag::before,
+.pink .radio_box_activator.active,
+.pink .simplePassword.focus input,
+.pink input[type=password]:not(:disabled):focus,
+.pink input[type=text]:not(:disabled):focus,
+.pink input[type=email]:not(:disabled):focus,
+.pink input[type=url]:not(:disabled):focus,
+.pink input[type=search]:not(:disabled):focus,
+.pink textarea:not(:disabled):focus,
+.pink .select select:focus,
+.pink .simpleChecker.small .simpleChecker_handler:before,
+.pink .active-step .steps {
+	color: #3c3c3c;
+	background: #fff ;
+	border-color: #d2477e;
+	border-bottom-color: #d2477e;
+	border-left-color: #d2477e;
+	border-right-color: #d2477e;
+	border-top-color: #d2477e;
+	outline: none
+}
+.pink .radio_box_activator.active,
+.pink .datetime_datetimepicker.datetime_flat .datetime_mounthpicker .datetime_select,
+.pink .datetime_datetimepicker.datetime_flat .datetime_timepicker,
+.pink .trumbowyg-box:hover .trumbowyg-modal-box,
+.pink .trumbowyg-box:hover .trumbowyg-dropdown  {
+	border-color: #d2477e !important;
+}
+/* pink style ends */
+/* purple style #cd94da-hover #ad3bc4-active */
+.purple .tagMultiSelect_selector:hover,
+.purple .tagMultiSelect_selector:hover:before,
+.purple .helpfillSelector:hover,
+.purple .helpfillSelector:hover:before,
+.purple .select select:hover,
+.purple .radio_box_wrapper:hover .radio_box_activator,
+.purple .SimpleSliderThumb:hover .thumbView:after,
+.purple .SimpleSliderThumb:hover .thumbView::after,
+.purple .SimpleSliderThumb:hover .thumbView,
+.purple .SimpleSliderThumb.selected .thumbView,
+.purple .SimpleSliderThumb.selected .thumbView:after,
+.purple .simpleSlider:hover .SimpleSliderTrack:before,
+.purple .simpleSlider:active .SimpleSliderTrack:before,
+.purple .simpleChecker:hover .simpleChecker_filler,
+.purple .MultiBox:hover .MultiBoxSelector,
+.purple .MultiBox:hover,
+.purple .MultiBox:hover .MultiBoxInfo,
+.purple .MultiBox:hover .MultiBoxHeader,
+.purple .radio_box_activator:hover,
+.purple .tagMultiSelect_addTag:hover,
+.purple .select_box.hover,
+.purple .textarea:not(.focus):not(.disabled) .AutoGrowTextarea.hover,
+.purple .textarea:not(.focus):not(.disabled) .AutoGrowTextarea.hover .textarea_counter,
+.purple .textarea:not(.focus):not(.disabled):hover .AutoGrowTextarea,
+.purple .ImageFieldWrapper:hover,
+.purple .ticker.hover,
+.purple .simplePassword:hover input,
+.purple .simplePasswordButton:hover,
+.purple .input:hover input,
+.purple .textarea:hover textarea:not(:focus):not(:disabled),
+.purple .radio:hover i,
+.purple .checkbox:hover i,
+.purple .checkbox-toggle:hover input:not(:checked) + i,
+.purple .radio-toggle:hover input:not(:checked) + i,
+.purple input[type=password]:not(:disabled):hover,
+.purple input[type=text]:not(:disabled):hover,
+.purple input[type=email]:not(:disabled):hover,
+.purple input[type=url]:not(:disabled):hover,
+.purple input[type=search]:not(:disabled):hover,
+.purple textarea:not(:focus):not(:disabled):hover,
+.purple .steps,
+.purple .datetime_datetimepicker.datetime_flat:hover,
+.purple .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker,
+.purple .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_prev,
+.purple .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_next,
+.purple .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_today_button,
+.purple .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_label.datetime_month,
+.purple .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_label.datetime_year,
+.purple .datetime_datetimepicker.datetime_flat .datetime_timepickerWrapper:hover,
+.purple .trumbowyg-box:hover,
+.purple .trumbowyg-box:hover .trumbowyg-button-pane {
+	border-bottom-color: #cd94da;
+	border-left-color: #cd94da;
+	border-right-color: #cd94da;
+	border-top-color: #cd94da;
+}
+.purple .simpleChecker_fillerRight {
+	color: #cd94da;
+}
+.purple .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover i,
+.purple .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-append, 
+.purple .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-prepend,
+.purple .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover i,
+.purple .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-append, 
+.purple .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-prepend {
+	border-color: #cd94da;
+	color: #cd94da;
+}
+.purple .input.focus:not(.disabled) .icon-append,
+.purple .input.focus:not(.disabled) .icon-prepend,
+.purple .textarea.focus:not(.disabled) .icon-append,
+.purple .textarea.focus:not(.disabled) .icon-prepend,
+.purple .input.focus:not(.disabled) .icon-append i,
+.purple .input.focus:not(.disabled) .icon-prepend i,
+.purple .textarea.focus:not(.disabled) .icon-append i,
+.purple .textarea.focus:not(.disabled) .icon-prepend i,
+.purple .checkbox-toggle input:not(:disabled):checked + i,
+.purple .radio-toggle input:not(:disabled):checked + i,
+.purple .radio input:not(:disabled):checked + i,
+.purple .checkbox input:not(:disabled):checked + i,
+.purple .radio input:not(:disabled):checked + i:after,
+.purple .checkbox input:not(:disabled):checked + i:after,
+.purple .checkbox input:not(:disabled) + i:after,
+.purple .radio-toggle input:not(:disabled):not(:checked) + i:after,
+.purple .checkbox-toggle input:not(:disabled):not(:checked) + i:after,
+.purple .ratings input + label:hover,
+.purple .ratings input + label:hover ~ label,
+.purple .ratings input:checked + label,
+.purple .ratings input:checked + label ~ label,
+.purple .textarea.focus:not(.disabled) .trumbowyg-box,
+.purple .textarea.focus:not(.disabled) .trumbowyg-box .trumbowyg-button-pane {
+	border-color: #ad3bc4 !important;
+	color: #ad3bc4 !important;
+}
+.purple .ImageFieldButton,
+.purple .button.secondary,
+.purple .simpleChecker:not(.small) .simpleChecker_handler,
+.purple .simpleChecker:not(.small) .simpleChecker_handler_underlay .simpleChecker_fillerRight span:not(.custom):before,
+.purple .simpleChecker:not(.small) .simpleChecker_handler_underlay .simpleChecker_fillerRight span:not(.custom):after,
+.purple .checkbox-toggle i:before,
+.purple .radio-toggle i:before,
+.purple .steps,
+.purple .trumbowyg-box:hover .trumbowyg-separator {
+	background-color: #cd94da;
+}
+.purple .ImageFieldButton:hover, 
+.purple .button.primary,
+.purple .ImageFieldPBFiller,
+.purple .SimpleSliderTrackFiller.original,
+.purple .simpleChecker:not(.small):not(.disabled):not(.checked):hover .simpleChecker_handler, 
+.purple .checked .simpleChecker_handler_underlay, 
+.purple .progressFiller,
+.purple .checkbox-toggle:hover input:not(:disabled):not(:checked) + i:before,
+.purple .radio-toggle:hover  input:not(:disabled):not(:checked) + i:before,
+.purple .checkbox-toggle input:not(:disabled):checked + i,
+.purple .radio-toggle input:not(:disabled):checked + i,
+.purple .radio input:not(:disabled) + i:after {
+	background-color: #ad3bc4;
+}
+.purple .radio_box_filler,
+.purple .SimpleSliderThumb.active .thumbView:after,
+.purple .SimpleSliderThumb.active .thumbView::after,
+.purple .SimpleSliderThumb.active .thumbView,
+.purple .SimpleSliderThumb:focus .thumbView:after,
+.purple .SimpleSliderThumb:focus .thumbView::after,
+.purple .SimpleSliderThumb:focus .thumbView,
+.purple .simpleChecker.checked .simpleChecker_filler,
+.purple .simpleChecker.checked .simpleChecker_handler,
+.purple .tagMultiSelect_addTag.active,
+.purple .tag,
+.purple .tagMultiSelect_tag,
+.purple .select_box_selector:not(.top),
+.purple .select_box_selector.top,
+.purple .MultiBox.focus,
+.purple .MultiBox.focus .MultiBoxSelector,
+.purple .MultiBox.focus .MultiBoxInfo,
+.purple .MultiBox.focus .MultiBoxHeader,
+.purple .select_box.focus,
+.purple .AutoGrowTextarea.focus,
+.purple .AutoGrowTextarea.focus .textarea_counter,
+.purple .ticker.focus,
+.purple .tag:before,
+.purple .tagMultiSelect_tag:before,
+.purple .tag::before,
+.purple .tagMultiSelect_tag::before,
+.purple .radio_box_activator.active,
+.purple .simplePassword.focus input,
+.purple input[type=password]:not(:disabled):focus,
+.purple input[type=text]:not(:disabled):focus,
+.purple input[type=email]:not(:disabled):focus,
+.purple input[type=url]:not(:disabled):focus,
+.purple input[type=search]:not(:disabled):focus,
+.purple textarea:not(:disabled):focus,
+.purple .select select:focus,
+.purple .simpleChecker.small .simpleChecker_handler:before,
+.purple .active-step .steps {
+	color: #3c3c3c;
+	background: #fff ;
+	border-color: #ad3bc4;
+	border-bottom-color: #ad3bc4;
+	border-left-color: #ad3bc4;
+	border-right-color: #ad3bc4;
+	border-top-color: #ad3bc4;
+	outline: none
+}
+.purple .radio_box_activator.active,
+.purple .datetime_datetimepicker.datetime_flat .datetime_mounthpicker .datetime_select,
+.purple .datetime_datetimepicker.datetime_flat .datetime_timepicker,
+.purple .trumbowyg-box:hover .trumbowyg-modal-box,
+.purple .trumbowyg-box:hover .trumbowyg-dropdown  {
+	border-color: #ad3bc4 !important;
+}
+/* purple style ends */
+/* red style #dc9596-hover #cc3d3d-active */
+.red .tagMultiSelect_selector:hover,
+.red .tagMultiSelect_selector:hover:before,
+.red .helpfillSelector:hover,
+.red .helpfillSelector:hover:before,
+.red .select select:hover,
+.red .radio_box_wrapper:hover .radio_box_activator,
+.red .SimpleSliderThumb:hover .thumbView:after,
+.red .SimpleSliderThumb:hover .thumbView::after,
+.red .SimpleSliderThumb:hover .thumbView,
+.red .SimpleSliderThumb.selected .thumbView,
+.red .SimpleSliderThumb.selected .thumbView:after,
+.red .simpleSlider:hover .SimpleSliderTrack:before,
+.red .simpleSlider:active .SimpleSliderTrack:before,
+.red .simpleChecker:hover .simpleChecker_filler,
+.red .MultiBox:hover .MultiBoxSelector,
+.red .MultiBox:hover,
+.red .MultiBox:hover .MultiBoxInfo,
+.red .MultiBox:hover .MultiBoxHeader,
+.red .radio_box_activator:hover,
+.red .tagMultiSelect_addTag:hover,
+.red .select_box.hover,
+.red .textarea:not(.focus):not(.disabled) .AutoGrowTextarea.hover,
+.red .textarea:not(.focus):not(.disabled) .AutoGrowTextarea.hover .textarea_counter,
+.red .textarea:not(.focus):not(.disabled):hover .AutoGrowTextarea,
+.red .ImageFieldWrapper:hover,
+.red .ticker.hover,
+.red .simplePassword:hover input,
+.red .simplePasswordButton:hover,
+.red .input:hover input,
+.red .textarea:hover textarea:not(:focus):not(:disabled),
+.red .radio:hover i,
+.red .checkbox:hover i,
+.red .checkbox-toggle:hover input:not(:checked) + i,
+.red .radio-toggle:hover input:not(:checked) + i,
+.red input[type=password]:not(:disabled):hover,
+.red input[type=text]:not(:disabled):hover,
+.red input[type=email]:not(:disabled):hover,
+.red input[type=url]:not(:disabled):hover,
+.red input[type=search]:not(:disabled):hover,
+.red textarea:not(:focus):not(:disabled):hover,
+.red .steps,
+.red .datetime_datetimepicker.datetime_flat:hover,
+.red .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker,
+.red .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_prev,
+.red .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_next,
+.red .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_today_button,
+.red .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_label.datetime_month,
+.red .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_label.datetime_year,
+.red .datetime_datetimepicker.datetime_flat .datetime_timepickerWrapper:hover,
+.red .trumbowyg-box:hover,
+.red .trumbowyg-box:hover .trumbowyg-button-pane {
+	border-bottom-color: #dc9596;
+	border-left-color: #dc9596;
+	border-right-color: #dc9596;
+	border-top-color: #dc9596;
+}
+.red .simpleChecker_fillerRight {
+	color: #dc9596;
+}
+.red .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover i,
+.red .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-append, 
+.red .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-prepend,
+.red .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover i,
+.red .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-append, 
+.red .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-prepend {
+	border-color: #dc9596;
+	color: #dc9596;
+}
+.red .input.focus:not(.disabled) .icon-append,
+.red .input.focus:not(.disabled) .icon-prepend,
+.red .textarea.focus:not(.disabled) .icon-append,
+.red .textarea.focus:not(.disabled) .icon-prepend,
+.red .input.focus:not(.disabled) .icon-append i,
+.red .input.focus:not(.disabled) .icon-prepend i,
+.red .textarea.focus:not(.disabled) .icon-append i,
+.red .textarea.focus:not(.disabled) .icon-prepend i,
+.red .checkbox-toggle input:not(:disabled):checked + i,
+.red .radio-toggle input:not(:disabled):checked + i,
+.red .radio input:not(:disabled):checked + i,
+.red .checkbox input:not(:disabled):checked + i,
+.red .radio input:not(:disabled):checked + i:after,
+.red .checkbox input:not(:disabled):checked + i:after,
+.red .checkbox input:not(:disabled) + i:after,
+.red .radio-toggle input:not(:disabled):not(:checked) + i:after,
+.red .checkbox-toggle input:not(:disabled):not(:checked) + i:after,
+.red .ratings input + label:hover,
+.red .ratings input + label:hover ~ label,
+.red .ratings input:checked + label,
+.red .ratings input:checked + label ~ label,
+.red .textarea.focus:not(.disabled) .trumbowyg-box,
+.red .textarea.focus:not(.disabled) .trumbowyg-box .trumbowyg-button-pane {
+	border-color: #cc3d3d !important;
+	color: #cc3d3d !important;
+}
+.red .ImageFieldButton,
+.red .button.secondary,
+.red .simpleChecker:not(.small) .simpleChecker_handler,
+.red .simpleChecker:not(.small) .simpleChecker_handler_underlay .simpleChecker_fillerRight span:not(.custom):before,
+.red .simpleChecker:not(.small) .simpleChecker_handler_underlay .simpleChecker_fillerRight span:not(.custom):after,
+.red .checkbox-toggle i:before,
+.red .radio-toggle i:before,
+.red .steps,
+.red .trumbowyg-box:hover .trumbowyg-separator {
+	background-color: #dc9596;
+}
+.red .ImageFieldButton:hover, 
+.red .button.primary,
+.red .ImageFieldPBFiller,
+.red .SimpleSliderTrackFiller.original,
+.red .simpleChecker:not(.small):not(.disabled):not(.checked):hover .simpleChecker_handler, 
+.red .checked .simpleChecker_handler_underlay, 
+.red .progressFiller,
+.red .checkbox-toggle:hover input:not(:disabled):not(:checked) + i:before,
+.red .radio-toggle:hover  input:not(:disabled):not(:checked) + i:before,
+.red .checkbox-toggle input:not(:disabled):checked + i,
+.red .radio-toggle input:not(:disabled):checked + i,
+.red .radio input:not(:disabled) + i:after {
+	background-color: #cc3d3d;
+}
+.red .radio_box_filler,
+.red .SimpleSliderThumb.active .thumbView:after,
+.red .SimpleSliderThumb.active .thumbView::after,
+.red .SimpleSliderThumb.active .thumbView,
+.red .SimpleSliderThumb:focus .thumbView:after,
+.red .SimpleSliderThumb:focus .thumbView::after,
+.red .SimpleSliderThumb:focus .thumbView,
+.red .simpleChecker.checked .simpleChecker_filler,
+.red .simpleChecker.checked .simpleChecker_handler,
+.red .tagMultiSelect_addTag.active,
+.red .tag,
+.red .tagMultiSelect_tag,
+.red .select_box_selector:not(.top),
+.red .select_box_selector.top,
+.red .MultiBox.focus,
+.red .MultiBox.focus .MultiBoxSelector,
+.red .MultiBox.focus .MultiBoxInfo,
+.red .MultiBox.focus .MultiBoxHeader,
+.red .select_box.focus,
+.red .AutoGrowTextarea.focus,
+.red .AutoGrowTextarea.focus .textarea_counter,
+.red .ticker.focus,
+.red .tag:before,
+.red .tagMultiSelect_tag:before,
+.red .tag::before,
+.red .tagMultiSelect_tag::before,
+.red .radio_box_activator.active,
+.red .simplePassword.focus input,
+.red input[type=password]:not(:disabled):focus,
+.red input[type=text]:not(:disabled):focus,
+.red input[type=email]:not(:disabled):focus,
+.red input[type=url]:not(:disabled):focus,
+.red input[type=search]:not(:disabled):focus,
+.red textarea:not(:disabled):focus,
+.red .select select:focus,
+.red .simpleChecker.small .simpleChecker_handler:before,
+.red .active-step .steps {
+	color: #3c3c3c;
+	background: #fff ;
+	border-color: #cc3d3d;
+	border-bottom-color: #cc3d3d;
+	border-left-color: #cc3d3d;
+	border-right-color: #cc3d3d;
+	border-top-color: #cc3d3d;
+	outline: none
+}
+.red .radio_box_activator.active,
+.red .datetime_datetimepicker.datetime_flat .datetime_mounthpicker .datetime_select,
+.red .datetime_datetimepicker.datetime_flat .datetime_timepicker,
+.red .trumbowyg-box:hover .trumbowyg-modal-box,
+.red .trumbowyg-box:hover .trumbowyg-dropdown  {
+	border-color: #cc3d3d !important;
+}
+/* red style ends */
+/* yellow style #ffe782-hover #ffc228-active */
+.yellow .tagMultiSelect_selector:hover,
+.yellow .tagMultiSelect_selector:hover:before,
+.yellow .helpfillSelector:hover,
+.yellow .helpfillSelector:hover:before,
+.yellow .select select:hover,
+.yellow .radio_box_wrapper:hover .radio_box_activator,
+.yellow .SimpleSliderThumb:hover .thumbView:after,
+.yellow .SimpleSliderThumb:hover .thumbView::after,
+.yellow .SimpleSliderThumb:hover .thumbView,
+.yellow .SimpleSliderThumb.selected .thumbView,
+.yellow .SimpleSliderThumb.selected .thumbView:after,
+.yellow .simpleSlider:hover .SimpleSliderTrack:before,
+.yellow .simpleSlider:active .SimpleSliderTrack:before,
+.yellow .simpleChecker:hover .simpleChecker_filler,
+.yellow .MultiBox:hover .MultiBoxSelector,
+.yellow .MultiBox:hover,
+.yellow .MultiBox:hover .MultiBoxInfo,
+.yellow .MultiBox:hover .MultiBoxHeader,
+.yellow .radio_box_activator:hover,
+.yellow .tagMultiSelect_addTag:hover,
+.yellow .select_box.hover,
+.yellow .textarea:not(.focus):not(.disabled) .AutoGrowTextarea.hover,
+.yellow .textarea:not(.focus):not(.disabled) .AutoGrowTextarea.hover .textarea_counter,
+.yellow .textarea:not(.focus):not(.disabled):hover .AutoGrowTextarea,
+.yellow .ImageFieldWrapper:hover,
+.yellow .ticker.hover,
+.yellow .simplePassword:hover input,
+.yellow .simplePasswordButton:hover,
+.yellow .input:hover input,
+.yellow .textarea:hover textarea:not(:focus):not(:disabled),
+.yellow .radio:hover i,
+.yellow .checkbox:hover i,
+.yellow .checkbox-toggle:hover input:not(:checked) + i,
+.yellow .radio-toggle:hover input:not(:checked) + i,
+.yellow input[type=password]:not(:disabled):hover,
+.yellow input[type=text]:not(:disabled):hover,
+.yellow input[type=email]:not(:disabled):hover,
+.yellow input[type=url]:not(:disabled):hover,
+.yellow input[type=search]:not(:disabled):hover,
+.yellow textarea:not(:focus):not(:disabled):hover,
+.yellow .steps,
+.yellow .datetime_datetimepicker.datetime_flat:hover,
+.yellow .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker,
+.yellow .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_prev,
+.yellow .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_next,
+.yellow .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_today_button,
+.yellow .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_label.datetime_month,
+.yellow .datetime_datetimepicker.datetime_flat:hover .datetime_mounthpicker .datetime_label.datetime_year,
+.yellow .datetime_datetimepicker.datetime_flat .datetime_timepickerWrapper:hover,
+.yellow .trumbowyg-box:hover,
+.yellow .trumbowyg-box:hover .trumbowyg-button-pane {
+	border-bottom-color: #ffe782;
+	border-left-color: #ffe782;
+	border-right-color: #ffe782;
+	border-top-color: #ffe782;
+}
+.yellow .simpleChecker_fillerRight {
+	color: #ffe782;
+}
+.yellow .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover i,
+.yellow .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-append, 
+.yellow .input:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-prepend,
+.yellow .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover i,
+.yellow .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-append, 
+.yellow .textarea:not(.wrapper-error):not(.wrapper-valid):not(.disabled):hover .icon-prepend {
+	border-color: #ffe782;
+	color: #ffe782;
+}
+.yellow .input.focus:not(.disabled) .icon-append,
+.yellow .input.focus:not(.disabled) .icon-prepend,
+.yellow .textarea.focus:not(.disabled) .icon-append,
+.yellow .textarea.focus:not(.disabled) .icon-prepend,
+.yellow .input.focus:not(.disabled) .icon-append i,
+.yellow .input.focus:not(.disabled) .icon-prepend i,
+.yellow .textarea.focus:not(.disabled) .icon-append i,
+.yellow .textarea.focus:not(.disabled) .icon-prepend i,
+.yellow .checkbox-toggle input:not(:disabled):checked + i,
+.yellow .radio-toggle input:not(:disabled):checked + i,
+.yellow .radio input:not(:disabled):checked + i,
+.yellow .checkbox input:not(:disabled):checked + i,
+.yellow .radio input:not(:disabled):checked + i:after,
+.yellow .checkbox input:not(:disabled):checked + i:after,
+.yellow .checkbox input:not(:disabled) + i:after,
+.yellow .radio-toggle input:not(:disabled):not(:checked) + i:after,
+.yellow .checkbox-toggle input:not(:disabled):not(:checked) + i:after,
+.yellow .ratings input + label:hover,
+.yellow .ratings input + label:hover ~ label,
+.yellow .ratings input:checked + label,
+.yellow .ratings input:checked + label ~ label,
+.yellow .textarea.focus:not(.disabled) .trumbowyg-box,
+.yellow .textarea.focus:not(.disabled) .trumbowyg-box .trumbowyg-button-pane {
+	border-color: #ffc228 !important;
+	color: #ffc228 !important;
+}
+.yellow .ImageFieldButton,
+.yellow .button.secondary,
+.yellow .simpleChecker:not(.small) .simpleChecker_handler,
+.yellow .simpleChecker:not(.small) .simpleChecker_handler_underlay .simpleChecker_fillerRight span:not(.custom):before,
+.yellow .simpleChecker:not(.small) .simpleChecker_handler_underlay .simpleChecker_fillerRight span:not(.custom):after,
+.yellow .checkbox-toggle i:before,
+.yellow .radio-toggle i:before,
+.yellow .steps,
+.yellow .trumbowyg-box:hover .trumbowyg-separator {
+	background-color: #ffe782;
+}
+.yellow .ImageFieldButton:hover, 
+.yellow .button.primary,
+.yellow .ImageFieldPBFiller,
+.yellow .SimpleSliderTrackFiller.original,
+.yellow .simpleChecker:not(.small):not(.disabled):not(.checked):hover .simpleChecker_handler, 
+.yellow .checked .simpleChecker_handler_underlay, 
+.yellow .progressFiller,
+.yellow .checkbox-toggle:hover input:not(:disabled):not(:checked) + i:before,
+.yellow .radio-toggle:hover  input:not(:disabled):not(:checked) + i:before,
+.yellow .checkbox-toggle input:not(:disabled):checked + i,
+.yellow .radio-toggle input:not(:disabled):checked + i,
+.yellow .radio input:not(:disabled) + i:after {
+	background-color: #ffc228;
+}
+.yellow .radio_box_filler,
+.yellow .SimpleSliderThumb.active .thumbView:after,
+.yellow .SimpleSliderThumb.active .thumbView::after,
+.yellow .SimpleSliderThumb.active .thumbView,
+.yellow .SimpleSliderThumb:focus .thumbView:after,
+.yellow .SimpleSliderThumb:focus .thumbView::after,
+.yellow .SimpleSliderThumb:focus .thumbView,
+.yellow .simpleChecker.checked .simpleChecker_filler,
+.yellow .simpleChecker.checked .simpleChecker_handler,
+.yellow .tagMultiSelect_addTag.active,
+.yellow .tag,
+.yellow .tagMultiSelect_tag,
+.yellow .select_box_selector:not(.top),
+.yellow .select_box_selector.top,
+.yellow .MultiBox.focus,
+.yellow .MultiBox.focus .MultiBoxSelector,
+.yellow .MultiBox.focus .MultiBoxInfo,
+.yellow .MultiBox.focus .MultiBoxHeader,
+.yellow .select_box.focus,
+.yellow .AutoGrowTextarea.focus,
+.yellow .AutoGrowTextarea.focus .textarea_counter,
+.yellow .ticker.focus,
+.yellow .tag:before,
+.yellow .tagMultiSelect_tag:before,
+.yellow .tag::before,
+.yellow .tagMultiSelect_tag::before,
+.yellow .radio_box_activator.active,
+.yellow .simplePassword.focus input,
+.yellow input[type=password]:not(:disabled):focus,
+.yellow input[type=text]:not(:disabled):focus,
+.yellow input[type=email]:not(:disabled):focus,
+.yellow input[type=url]:not(:disabled):focus,
+.yellow input[type=search]:not(:disabled):focus,
+.yellow textarea:not(:disabled):focus,
+.yellow .select select:focus,
+.yellow .simpleChecker.small .simpleChecker_handler:before,
+.yellow .active-step .steps {
+	color: #3c3c3c;
+	background: #fff ;
+	border-color: #ffc228;
+	border-bottom-color: #ffc228;
+	border-left-color: #ffc228;
+	border-right-color: #ffc228;
+	border-top-color: #ffc228;
+	outline: none
+}
+.yellow .radio_box_activator.active,
+.yellow .datetime_datetimepicker.datetime_flat .datetime_mounthpicker .datetime_select,
+.yellow .datetime_datetimepicker.datetime_flat .datetime_timepicker,
+.yellow .trumbowyg-box:hover .trumbowyg-modal-box,
+.yellow .trumbowyg-box:hover .trumbowyg-dropdown  {
+	border-color: #ffc228 !important;
+}
+/* yellow style ends */

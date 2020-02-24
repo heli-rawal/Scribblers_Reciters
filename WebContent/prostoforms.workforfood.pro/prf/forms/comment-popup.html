@@ -1,0 +1,94 @@
+<!Doctype html>
+<meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+
+<title>Comment form</title>
+<link rel="shortcut icon" href="../favicon.png">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<link type="text/css" href="../styles/fontAwesome.css" rel="stylesheet"  media="screen"/>
+<link type="text/css" href="../styles/prosto-forms.min.css" rel="stylesheet" media="screen"/>
+<link type="text/css" href="../styles/prosto-forms-all.css" rel="stylesheet" media="screen"/>
+<link type="text/css" href="../styles/demo.css" rel="stylesheet" media="screen"/>
+ 
+<script type="text/javascript" src="../scripts/jquery.js"></script>
+<!-- <script type="text/javascript" src="../scripts/plugins/plugin.forms.min.js"></script> -->
+<script type="text/javascript" src="../scripts/helpers/helpers.js"></script>
+<!-- <script type="text/javascript" src="../scripts/helpers/wrenchbar.js"></script> -->
+<script type="text/javascript" src="commonScripts/comment-popup.js"></script>
+<!--[if IE]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+</head>
+<body>
+<div class="hidden_x w_wide h_100p">
+	<div class="w_normal horizontal_center relative h_100p">
+		<div class="absolute abs_bottom abs_right">
+			<div class="popupOpenBottom relative" href="#commentPopup">
+				<div class="h_40px pleft_20 pright_20 lh_40 cur_pointer b_white radiusTL_4 radiusTR_4 shadow activator transition mright_10"> Leave a comment </div>
+				<div class="popup-list-wrapper p_10 w_small bs_borderBox" id="commentPopup">
+					<form id="comment" class="hidden block f_light pf_form shadow" method="post" action="">
+						<fieldset>
+							<div class="row">
+								<section class="unit span6">
+										<label class="label" for="name">Name</label>
+										<label class="input relative">
+											<label class="icon-append" for="name">
+												<i class="fa fa-user"></i>
+											</label>
+											<input placeholder="Type your name" type="text" id="name" name="name" required>
+										</label>
+								</section>
+								<section class="unit span6">
+										<label class="label" for="email">Mail</label>
+										<label class="input relative">
+											<label class="icon-append" for="email">
+												<i class="fa fa-envelope-o"></i>
+											</label>
+											<input placeholder="Your email" type="email" id="email" name="email" required>
+										</label>
+								</section>
+							</div>
+							<section class="unit">
+									<label class="label" for="comment">Comment</label>
+									<label class="textarea relative">
+										<label class="icon-append" for="comment">
+											<i class="fa fa-file-text-o"></i>
+										</label>
+										<textarea class="autogrow" id="comment" name="comment" required placeholder="Type your comment..."></textarea>
+									</label>
+							</section>
+							<section class="unit">
+									<label class="label" for="email">Captcha</label>
+									<label class="input relative">
+										<label class="icon-append" for="captcha">
+											<i class="fa fa-unlock-alt"></i>
+										</label>
+										<div class="captchaImage before">
+											<img src="php/captcha1d70.png?h=36&amp;w=100&amp;fs=16&amp;ty=e" height="36" width="100" class="block">
+										</div>
+										<input type="text" id="captcha" name="captcha" required>
+									</label>
+							</section>
+							<section class="unit">
+									<label class="input hidden relative">
+										<input type="checkbox" class="normalCheckbox" name="notify" value="1">
+										Notify me about new comments
+									</label>
+							</section>
+						</fieldset>
+						<div id="response" class="m_30 mtop_0 p_10 none pright_30"></div>
+						<footer>
+							<input type="reset" class="button left radius_2 secondary" value="Reset">
+							<button type="submit" class="button right radius_2 primary">Continue</button>
+							<div class="clear"></div>
+						</footer>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+
+</html>
